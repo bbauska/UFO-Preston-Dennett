@@ -279,7 +279,14 @@ sup {
     position: relative;
     z-index: 1;
   }
-  
+
+.two-columns {
+  column-count: 2;
+  /* count prefixes might be needed for older browsers */
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
+}
+
   /* open-book Header/Footer */
   .open-book header:before,
   .open-book header:after,
