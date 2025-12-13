@@ -226,23 +226,12 @@ sup {
 #myBtn:hover {
   background-color: #555;  /* very dark gray */
 }
-#myBtn2 {
-  display: none;
-  position: fixed;
-  bottom: 20px;
-  right: 90px;
-  z-index: 99;
-  font-size: 11px;
-  border: none;
-  outline: none;
-  background-color: #8b0000;  /* dark red */
-  color: #fdfeff;  /* very pale (mostly white) blue */
-  cursor: pointer;
-  padding: 10px;
-  border-radius: 1px;
-}
-#myBtn2:hover {
-  background-color: #555;  /* very dark gray */
+
+.two-columns {
+  column-count: 2;
+  /* count prefixes might be needed for older browsers */
+  -webkit-column-count: 2;
+  -moz-column-count: 2;
 }
 
 /*** MEDIA QUERIES ends at end of document, approx line 359 ***/
@@ -279,13 +268,6 @@ sup {
     position: relative;
     z-index: 1;
   }
-
-.two-columns {
-  column-count: 2;
-  /* count prefixes might be needed for older browsers */
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-}
 
   /* open-book Header/Footer */
   .open-book header:before,
