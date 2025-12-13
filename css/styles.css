@@ -227,13 +227,6 @@ sup {
   background-color: #555;  /* very dark gray */
 }
 
-.two-columns {
-  column-count: 2;
-  /* count prefixes might be needed for older browsers */
-  -webkit-column-count: 2;
-  -moz-column-count: 2;
-}
-
 /*** MEDIA QUERIES ends at end of document, approx line 359 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
