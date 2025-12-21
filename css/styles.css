@@ -224,7 +224,7 @@ sup {
   border-radius: 1px;
 }
 #myBtn:hover {
-  background-color: #555;  /* very dark gray */
+  background-color: #8b4513;  /* dark orange, 555=very dark gray */
 }
 
 /*** MEDIA QUERIES ends at end of document, approx line 359 ***/
