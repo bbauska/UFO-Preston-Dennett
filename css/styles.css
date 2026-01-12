@@ -227,6 +227,32 @@ sup {
   background-color: #8b4513;  /* dark orange, 555=very dark gray */
 }
 
+/* change the mouse icon */
+.ripple {
+  width: 10px;
+  height: 10px;
+  opacity: 0;
+  transform: scale(0);
+  background: #00000067;
+  border-radius: 50%;
+  position: fixed;
+  z-index: 1111;
+}
+.animate {
+  animation: ripple-mo 1s cubic-bezier(0, 0, 0.2, 1);
+}
+
+@keyframes ripple-mo {
+  0% {
+    transform: scale(0);
+	  opacity: 1;
+  }
+  100% {
+    transform: scale(10);
+	  opacity: 0;
+  }
+}  
+
 /*** MEDIA QUERIES ends at end of document, approx line 359 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
