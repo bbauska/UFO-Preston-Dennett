@@ -1,4 +1,4 @@
-/* css/styles.css of github bbauska/ufo-preston-dennett making https://ufo-preston-dennett.bauska.org */
+/* css/styles.css of github bbauska/ufo-preston-dennett for https://ufo-preston-dennett.bauska.org */
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,900,400italic,700italic,900italic|Playfair+Display:400,700,900,400italic,700italic,900italic|Rock+Salt:400);
 
 *,
@@ -26,6 +26,15 @@ body {
   padding: 1em;
   width: 100%;
 }
+
+h5 {
+  display: block;
+  font-size: .83em;
+  margin-before: 1.67em;
+  margin-after: 1.67em;
+  margin-start: 0;
+  margin-end: 0;
+  font-weight: bold; }
 
 .tallFirstLetter:first-letter {
   float: left;
