@@ -1,4 +1,4 @@
-/* css/styles.css of github bbauska/ufo-preston-dennett for https://ufo-preston-dennett.bauska.org */
+/* ./css/styles.css of github bbauska/ufo-preston-dennett for https://ufo-preston-dennett.bauska.org */
 @import url(https://fonts.googleapis.com/css?family=Crimson+Text:400,700,900,400italic,700italic,900italic|Playfair+Display:400,700,900,400italic,700italic,900italic|Rock+Salt:400);
 
 *,
@@ -204,7 +204,7 @@ p:first-line { line-height: 100%; }
   margin: 1em auto;
   padding: 1em 0;
 }
-<!-- added 2/14/2025 -->
+/* added 2/14/2025 */
 .open-book img.displayed {
   display: block;
   margin: 0 auto; 
@@ -262,7 +262,7 @@ sup {
   }
 }  
 
-/*** MEDIA QUERIES ends at end of document, approx line 359 ***/
+/*** MEDIA QUERIES ends at end of document, line 386 ***/
 @media only screen and ( min-width: 50em ) {
   .open-book {
     margin: 1em;
@@ -383,4 +383,4 @@ sup {
   .open-book article > ol {
     padding-left: 3em;  /* 4em; */
   }
-}  <!-- end of @media only screen and ( min-width: 50em ) -->
+}  /* end of @media only screen and ( min-width: 50em ) */
