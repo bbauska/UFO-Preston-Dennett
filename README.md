@@ -1,6 +1,1606 @@
 <h1>UFO Preston Dennett</h1>
 <h2>UFO incidences written about by Preston Dennett from 2017 to 2026. UFO info is dated 
 from 1930's worldwide.</h2>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #316 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/OnyAM6cRBc8" 
+          title="316. ."
+          aria-label="316. "
+          target="_blank" rel="noopener noreferrer">EPISODE #316.<br>
+          UFOS IN YOUR<br>
+          HOMETOWN:<br>
+          EPISODE SEVENTEEN</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Apr 10, 2026 (1:14:53)</h3>
+          <p class="tallFirstLetter">Welcome to the latest installment of the UFO investigative 
+		  series, “UFOs in Your Hometown.” This series has its origin in challenge: name any town 
+		  or city and I will find a UFO encounter there. I am now working my way down a list of more 
+		  than 1000 locations, submitted by viewers, and so far, every single place has a history 
+		  of UFO encounters. In this Episode Seventeen, we explore eight new locations from across 
+		  the world. Have UFOs been seen in your hometown? Submit the town or city and I will look 
+		  it up! But I can tell you already, the answer is almost certainly yes!</p>
+
+          <p><b>Barryton, Michigan</b> is a small town of about 500 people. Despite its small size, 
+		  it has several profound UFO encounters. In <b>1978</b>, a police officer had a close-up 
+		  sighting of a solid craft with portholes. A few months later, the local police station 
+		  received several calls about UFOs, and the sheriff himself became a witness. A few other 
+		  cases involve clearly anomalous lights. But another case from 2022 involves a very strangely 
+		  shaped UFO.</p>
+
+          <p>The beautiful town of <b>Smedjebacken, Sweden</b> has about 5000 people and an incredible 
+		  history of encounters. In <b>1968</b>, a group of 15 boys (age 11-15) were hiking in the woods 
+		  when they were approached by two humanoids. Only a few of the boys remember the encounter, and 
+		  one became a major contactee. In <b>1973</b>, two witnesses saw three UFOs sitting on the ground 
+		  outside their home. A short distance away, there were other witnesses. In <b>1974 and 1976</b>, 
+		  there were two other incredible encounters.</p>
+ 
+          <p>Due to its large number of encounters, the <b>London burrough of Wandsworth</b>, in the <b>UK</b>, 
+		  it has been given the nickname of <b>UFO City</b>. In <b>1986</b>, a young athlete reports that 
+		  a UFO hovered above him. He experienced a period of missing time and woke up on a bus. The UFO 
+		  was still following him. There were more sightings in <b>1987 and 1992</b>. In <b>2006</b>, 
+		  there was a mini wave of UFOs over the city, involving many witnesses. Even the MOD was unable 
+		  to explain it. There was another sighting in <b>2008</b> which also had multiple witnesses.</p>
+ 
+          <p><b>Tuscaloosa, Alabama</b> has a population of 110,000 people and so many amazing encounters. 
+		  In <b>1950</b>, dozens of people saw a flaming cross arc across the sky. In <b>1950</b>, two Navy 
+		  pilots tracking a skyhook weather balloon were amazed to see a half-dozen UFOs also investigating 
+		  the balloon. In <b>1978</b>, the chief operator of the Holt Lock and Dam on the Black Warrior River 
+		  was one of many witnesses to a UFO which remained in view for several hours. In <b>1980</b>, a 
+		  college student was followed by a UFO to Tuscaloosa University. He was able to capture multiple 
+		  photographs of the strange lights before they disappeared. In <b>1989</b>, dozens of people 
+		  including police and security guards in <b>Tuscaloosa</b> and beyond reported strange lights 
+		  darting across the sky. In <b>1996 and 1999</b> there were sightings of solid metallic craft. 
+		  In <b>2019</b>, a young man was able to capture videotape of strange lights in the forest.</p>
+ 
+          <p><b>Buford, Georgia</b> has a population of 20,000 people. One incredible encounter occurred 
+		  in <b>1969</b> when a UFO zoomed mere feet above a car as it traveled down the highway. There 
+		  are several other cases of solid disc-shaped craft including in <b>2001, 2010 and 2012</b>. In 
+		  <b>2013</b> witnesses observed a glowing red object surrounded by black helicopters.</p>
+ 
+          <p><b>Pottstown, Pennsylvania</b> was founded in <b>1753</b>. With 23,000 people, this town has 
+		  several incredible encounters. In <b>1952</b>, there were two cases investigated by Project 
+		  Blue Book. In <b>1971</b>, a woman had an alarming encounter with a UFO on a country road. A 
+		  close encounter of the 2nd kind occurred to a man in <b>2004</b>. Pottstown has a nuclear power 
+		  plant, and several sightings, including one in <b>2000</b>, another in <b>2011</b>, and another 
+		  in <b>2016</b> all occurred near the power plant.</p>
+
+          <p><b>Haddon Heights, New Jersey</b> is a very small town, but it does have some interesting 
+		  UFO cases. In <b>1984</b>, two boys reported their sighting of a black pyramidal-shaped craft 
+		  cruising down the street in full view. In <b>2002</b>, two UFO researchers sighted what they 
+		  believe to be a solid anomalous object right off the 295 Interstate.</p>
+ 
+          <p><b>Twinsburg, Ohio</b> (population 20k) is most famous for hosting the annual festival of 
+		  twins and multiple births. But it also has many amazing UFO encounters. In <b>1959</b>, a man 
+		  had a sighting there that inspired him to become a prominent UFO researcher. In <b>1966</b>, a 
+		  6-year-old boy had a missing time encounter and later remembered he was not only taken onboard 
+		  a craft, but perhaps to another planet. A wave of sighting on <b>March 6, 1969</b> was widely 
+		  viewed by residents and police officers, and two months later, resulted in an odd visit by what 
+		  appears to be a gray-human hybrid at the local police station. 2009 and 2014 brought two more 
+		  amazing encounters.</p>
+
+          <p>Eight locations across the planet, each showing a history of close encounters of the first, 
+		  second, third and fourth kind, with many cases involving multiple witnesses and many forms of 
+		  evidence. These cases show that UFOs are seen everywhere, and are far more common than most 
+		  people think.</p>
+		  
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+  	    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #315 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/1mBOzncp4so" 
+          title="315. The Thing at the Window: (And Nine Other Very Weird Humanoid Encounters)."
+          aria-label="315. The Thing at the Window: (And Nine Other Very Weird Humanoid Encounters)"
+          target="_blank" rel="noopener noreferrer">EPISODE #315.<br>
+		  THE THING AT<br>
+          THE WINDOW:<br>
+          (AND NINE<br>
+          OTHER VERY<br>
+		  WEIRD<br>
+          HUMANOID<br>
+          ENCOUNTERS)</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Apr 3, 2026 (1:03:30)</h3>
+          <p class="tallFirstLetter">Humanoid encounters are a truly fascinating and important aspect 
+		  of Ufology. In these cases, people meet the UFO occupants face-to-face. These cases have 
+		  much to teach us about who these beings are. The diversity of cases is mindboggling. While 
+		  each case is unique, they contain striking similarities that argue for the veracity of these 
+		  incidents. This video presents ten cases from across the planet, each illustrating the incredibly 
+		  variety of these visitors to our planet.</p>
+
+          <p><b>AN EXTRATERRESTRIAL HITCHHIKER</b>. One <b>day in August 1962</b>, two friends were driving 
+		  between Puolanka and Oulu, Finland when a very short man flagged down their car and asked for a 
+		  ride. One of the friends noticed several strange things about the man. He was not only short, his 
+		  head was overly large, his eyes were not normal, and he had six fingers on each hand. There were 
+		  other strange details. After dropping the little man off, the two men saw a UFO, which convinced 
+		  them that the little man was an extraterrestrial.</p>
+
+          <p><b>THE ETS AT THE RESERVOIR</b>. One <b>night in October 1972</b>, a dating couple were at the 
+		  Carlington Heights Reservoir in Ottawa, Canada when they saw a UFO approach. It hovered about 20 
+		  feet above the ground. A door opened and they saw three humanoids looking down at them. After 
+		  fifteen minutes, the lady became frightened, so they drove away.</p>
+
+          <p><b>STRANGE CREATURES</b>. On the <b>morning of October 7, 1972</b>, Mrs. H. was bicycling to 
+		  her home in a rural area south of Ljubljana, Yugoslavia and saw three 3-foot-tall figures standing 
+		  on a nearby hill. They were dressed in strange gowns and were also moving strangely. Mrs. H. was 
+		  convinced that they were not human and fled the area. She later learned other witnesses had seen 
+		  strange humanoids in the same place.</p>
+
+          <p><b>THE THING AT THE WINDOW</b>. On the <b>night of April 24, 1977</b>, Billy and Pauline Coombs 
+		  were in their home in Dyfed, Wales when a silver-suited humanoid looked in their window. Not long 
+		  after this, their children saw the same figure and a landed UFO. Then Pauline and two of her 
+		  children had a third encounter with the silver-suited figures. More events followed. In fact, a 
+		  huge wave of activity occurred in the area.</p>
+
+          <p><b>I WILL REMEMBER THIS AS LONG AS LIVE</b>. On the <b>night of August 22, 1978</b>, a newly 
+		  married couple were honeymooning on the island of Bermuda when they saw a strange craft. Later, as 
+		  they walked on the beach, the craft hovered overhead and struck them with a beam of light. The 
+		  wife ran, but the husband stayed and saw grays inside the craft. That night, the couple was 
+		  visited by the grays in their hotel room.</p>
+
+          <p><b>LIKE THOSE WHO GO TO THE MOON</b>. Around <b>sunset on January 13, 1979</b>, Vittorio Mancini 
+		  worked the fields of his farm in Viterbo, Italy. Suddenly a UFO dropped from the sky and landed in 
+		  his field. He saw a little man get out and collect samples. He fled the scene. When he returned with 
+		  others, the craft and the little man were gone. Unknown to him, other witnesses in the area saw a UFO 
+		  and captured photographs.</p>
+
+          <p><b>TEN-YEAR-OLD GIRL MEETS ALIENS</b>. On <b>January 25, 1979</b>, 10-year-old Marta Isabel Carabajal 
+		  was playing in her grandparents’ home in El Dean, Argentina, when she saw a UFO land in the yard. Some 
+		  little men in jumpsuits emerged and floated around. One approached Marta and asked her to come closer. 
+		  When Marta refused, the little man struck her with a beam of light. The men returned to their craft 
+		  and flew away.</p>
+
+          <p><b>DON’T LOOK BACK!</b> On the <b>night of September 11, 1980</b>, a family drove outside of Willington, 
+		  Connecticut when a huge flattish disc-shaped craft appeared and approached their car. There was a small 
+		  transparent dome on top. And inside it, the father saw the head and shoulders of a small humanoid. He 
+		  quickly drove away. Later they learned there were other sightings in the are.</p>
+
+          <p><b>THE WEIRD HUMANOID AT THE RANCH</b>. On <b>September 20, 1997</b>, the Rodrigues family were puzzled 
+		  to find that 17 chickens were missing from their ranch in Mateus Leme, Brazil. The next night, the father, 
+		  Jose, saw a short humanoid figure by the henhouse. More chickens were missing. The next day, he came face-to-
+		  face with a strange humanoid. He tried to shoot at it, and the humanoid fled, never to return.</p>
+
+          <p><b>I COULD ONLY MOVE MY EYES</b>. One <b>summer day in 1992</b>, an 11-year-old boy watched a movie about 
+		  gray aliens. That night he woke up to see three gray aliens by his bed. He was completely paralyzed and 
+		  could only watch. He was amazed to see that they looked different from the grays portrayed in the movie. 
+		  Waking up the next morning, he saw a faint scar on his leg. The next night, he saw a UFO.</p>
+
+          <p>These ten cases all involve firsthand eyewitness testimonies of strange humanoids, which are supported 
+		  by various forms of evidence such as landing traces, physiological effects, animal reactions, electromagnetic 
+		  disturbances and even photographs. So many cases—too many to explain away. It is time to take these accounts 
+		  seriously.</p>
+		  
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+		  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #314 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/N3W83uyKBhE" 
+          title="314. It Doesn't Get Any Weirder Than This! Ten Extremely Bizarre Close Encounters 
+          of the Second Kind."
+          aria-label="314. It Doesn't Get Any Weirder Than This! Ten Extremely Bizarre Close Encounters 
+          of the Second Kind"
+          target="_blank" rel="noopener noreferrer">EPISODE #314. IT<br>
+          DOESN'T GET ANY<br>
+          WEIRDER THAN THIS!<br>
+          TEN EXTREMELY<br>
+          BIZARRE CLOSE<br>
+          ENCOUNTERS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Mar 27, 2026 (1:10:36)</h3>
+          <p class="tallFirstLetter">Close encounters of the second kind are cases in which UFOs 
+          affect the environment or the witness in some way. The variety of effects are mindboggling, 
+          including everything from strange landing traces to physiological symptoms and more. This 
+          video presents ten extreme accounts of this kind, cases involving very unusual or even 
+          unique aspects of high strangeness that are very difficult to understand. These cases 
+          show that we still have much to learn about the extraterrestrial presence on our planet.</p>
+
+          <p><b>SOMETHING UNIMAGINABLE.</b> One <b>summer morning in 1976</b>, a wildfire struck the 
+          area of Tolima, Colombia. In the pathway of destruction was an estate owned by Ines de 
+          Montana, a famous Colombian journalist. As the fire seemed sure to burn down the house, 
+          a UFO showed up and saved the estate in a very unusual way.</p>
+
+          <p><b>THIS WAS THE END.</b> On <b>May 5, 1977</b>, student pilot Manuel Jose Lopez Ojeda was 
+          performing flight maneuvers near Bogota, Colombia when his plane mysteriously malfunctioned. 
+          He was preparing to make an emergency landing when a UFO showed up and began flying circles 
+          around his plane. Manuel felt strange physiological effects, the weirdest which was, his vision 
+          began to deteriorate. As the UFO flew off, Manuel found he was blind. He called the control 
+          tower for help, who did their best to help him.</p>
+
+          <p><b>UFO SPOILS BARBECUE PICNIC.</b> On <b>August 22, 1978</b>, three people were enjoying 
+          a barbecue outside the small town of Coronel Dorrego, Argentina. They suddenly smelled a 
+          strange odor and saw that their food had been strangely transformed. Looking up, they saw a 
+          UFO. They fled in their car, but the UFO struck them with a beam of light, and suddenly they 
+          found themselves on a different road.</p>
+
+          <p><b>EVERYTHING WAS ENHANCED.</b> On the <b>night of September 30, 1978</b>, Jose Marchisio 
+          drove to his home in rural Maria Teresa, Argentina. While on the remote road, his progress 
+          was blocked by a gigantic red sphere. Suddenly it seemed to explode, causing his perception 
+          to become altered in very unusual ways. He felt as if his car was flying through the air. 
+          Suddenly it ended and he found himself miles from his original location. Both his body and 
+          his car were deeply affected.</p>
+ 
+          <p><b>ONE GOOD TURN.</b> On <b>October 12, 1978</b>, a group of people were taking a bus 
+          journey from Linares, Chile to Constitucion. Without warning, they came upon a giant red 
+          glowing “thing.” Exiting the bus to take a closer look, the light suddenly disappeared. 
+          Turning around, they saw that something very unusual had happened to their bus.</p>
+ 
+          <p><b>I WAS FROZEN.</b> On the <b>night of January 5, 1979</b>, a wave of sightings hit 
+          Sturbridge, Massachusetts. One witness, Anmarie Emery drove along Route 90 that night and 
+          saw three UFOs flying along the highway. The road divided and all the cars took the other 
+          route. Anmarie was now alone on the highway. The UFOs dropped down and blocked the road in 
+          front of her, causing both her body and car to be affected in unusual ways.</p>
+
+          <p><b>KNOCKED OVER BY A UFO.</b> On the <b>night of August 17, 1980</b>, Phillip Battle Sr., 
+          a security guard at a steel foundry plant in Lima, Ohio, was at this location when a UFO 
+          showed up. It began to put on a display for him, then suddenly struck him with a beam of 
+          light, physically knocking him over. He called for help and other witnesses came out and 
+          saw the UFO. This was just one of many encounters Phillip has experienced.</p>
+
+          <p><b>I SAW THIS THING.</b> On the night of September 30, 1980, ranch manager George Blackwell 
+          of Kilmany, Australia, was awakened by a whistling sound. He looked outside and saw a glowing 
+          bell-shaped craft. It moved over the farm water tank, then landed next to it. It caused a 
+          strong wind and took off. Afterwards, George’s watch stopped, he felt ill, there were odd 
+          landing traces, and all the water in the tank was gone.</p>
+
+          <p><b>ANOTHER THIRSTY UFO.</b> On the <b>night of July 11, 1981</b>, the supervisor of a girl 
+          scouts’ camp in Port Byron, Illinois noticed an unusual illumination in the pool area. Venturing 
+          to the pool, he was shocked to see a massive orb floating over the pool. It darted away, and the 
+          manager was shocked to see that thousands of gallons were missing from the pool. Not only that, 
+          the water been de-chlorinated.</p>
+
+          <p><b>FROM SOMEWHERE ELSE.</b> On the <b>night of September 30, 1982</b>, four women pulled 
+          off the road in Hampton, New Hampshire, to observe a massive craft hovering over a nearby 
+          field. Two of the women leapt from the car and ran towards the craft, which sent down a beam 
+          of light then took off. All the women were deeply impressed, but one of the witnesses reports 
+          that the UFO had a personal message just for her.</p>
+
+          <p>Ten cases, each showing how UFOs can affect people and the environment in bizarre and 
+          baffling ways that make it clear we still have a lot to learn about UFOs and extraterrestrials. 
+          Cases like these, and other close encounters of the second kind provide an excellent opportunity 
+          to advance our knowledge of this subject.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #313 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/ebkNCUyEhRk" 
+          title="313. When UFOs Crash! Seven Shocking Cases."
+          aria-label="313. When UFOs Crash! Seven Shocking Cases"
+          target="_blank" rel="noopener noreferrer">EPISODE #313.<br>
+          WHEN UFOS CRASH!<br>
+          SEVEN SHOCKING<br>
+          CASES</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Mar 20, 2026 (1:14:40)</h3>
+          <p class="tallFirstLetter">The field of ufology is changing fast. A subject that used to 
+          be regarded with derision, skepticism and ridicule is now gaining the legitimacy and 
+          attention it has long deserved. Truth is coming out as governments across the world are 
+          admitting that UFOs are real. One of the cutting edges of the UFO phenomenon are accounts 
+          involving UFO crashes. And there are more of them than you might think. This episode 
+          presents seven shocking UFO crash incidents that you probably haven’t heard of before. 
+          But they all deserve to be well known.</p>
+
+          <p><b>UFO CRASH IN VENEZUELA</b>. In <b>1952</b>, Mr. JP (full name known by the researchers) 
+          went on an expedition in the Amazon Jungle in Venezuela in search of gold. The expedition was 
+          a tragic failure as the group struggled for survival and soon disbanded, and JP found himself 
+          alone in the jungle. Then he came upon a metallic-disc shaped craft. There was an opening in 
+          the side and right in front of it was a short deceased gray alien. He saw three more inside 
+          it. JP took a piece of the ET technology as proof and headed back to his home in Caracas. He 
+          hoped to mount another expedition to the site, but a series of misfortunes prevented him from 
+          doing so. The craft might still be there today.</p>
+
+          <p><b>UFO CRASH IN NEW MEXICO</b>. In <b>1953</b>, radar specialist Mr. TE was stationed at 
+          Fort Monmouth, NJ when he and other specialists were called into the base theater to view a 
+          mysterious film. To his shock, it showed a crashed UFO and alien bodies in the deserts of 
+          New Mexico. He soon heard rumors that it had been recovered one year earlier. Years later, 
+          he met another man who saw the same film at another base. He contacted researcher Leonard 
+          Stringfield, who managed to locate yet another witness to this mysterious film.</p>
+
+          <p><b>UFO CRASH IN OHIO</b>. One <b>evening in April 1977</b>, family was in their yard in 
+          Xenia, Ohio when the nighttime became brilliantly illuminated by a glowing object which 
+          zoomed overhead and crashed into a massive oak tree on their property. The craft became 
+          lodged in the branches. The family called the police who arrived, and contacted officers 
+          from nearby Wright-Patterson AFB. As the Air Force arrived, the family watched from their 
+          home as the craft and several small beings were scooped up by the Air Force. The family was 
+          told to leave their home and return the next day. Upon returning, the tree was dead and the 
+          yard torn up.</p>
+
+          <p><b>UFO CRASH IN AUSTRALIA</b>. On <b>February 7, 1980</b>, Daryl Brown watched TV inside a 
+          home in Stirling, Australia. Suddenly a huge crashing noise shook the house, and the dogs 
+          outside barked furiously. Rushing outside with a flashlight, he was amazed to see a small craft 
+          had crashed into a 120-foot-tall cypress pine tree. He fled inside and called the police. When 
+          they went back to the tree, the craft was gone. However, the damage to the tree was apparent, 
+          and researchers arrived and confirmed the damage and other strange traces. Before the encounter, 
+          witnesses just a few miles away observed a dramatic UFO display.</p>
+
+          <p><b>UFO CRASH IN ESTONIA</b>. Starting around <b>1984 or earlier</b>, information started to 
+          leak out about an unusual event at a farmhouse in Tallin, Estonia. Reportedly the owners were 
+          digging a well and came upon a massive metallic disc-shaped object. The report found its way 
+          to the Russian military who began a thorough investigation and determined that it was some 
+          kind of craft, which had been there for thousands of years. Attempts to excavate the craft met 
+          with ongoing problems, and were eventually abandoned. Per some accounts, the craft is still 
+          there today.</p>
+
+          <p><b>UFO CRASH IN MEXICO</b>. In <b>1989</b>, Dr. Rafael Lara Palmeros and two colleagues were 
+          walking near an electrical station in Santa Rosalia, Mexico when they came upon an apparent UFO 
+          crash/retrieval operation. They saw a massive military force. The craft was spherical and there 
+          were two badly burned short humanoids lying next to it. He inside the craft and saw two little 
+          seats. A bogus news story was leaked to the press, and the entire event was covered up.</p>
+
+          <p><b>UFO CRASH IN KAZAKHSTAN</b>. In <b>1992</b>, researchers and military personnel began to 
+          investigate a mysterious craft which apparently crashed at the foot of the Tien Shan Mountains of 
+          Kazakhstan. The craft was massive, but when people tried to approach it, their equipment failed 
+          and they suffered what appeared to be radiation burns. A helicopter that got too close crashed. 
+          Still, researchers were able to determine that the craft was about 2000 feet long and apparently 
+          not of Earthly origin. This was not the only crash. An earlier one was even more dramatic.</p>
+
+          <p>These seven cases are just the tip of the iceberg. The vast majority of cases like these 
+          are never made public, so the actual number of UFO crashes is probably much larger. UFO crash/
+          retrievals provide incontrovertible evidence of extraterrestrials. Ironically, the reports are 
+          almost purely anecdotal. Hopefully as more attention is paid to this subject, the truth will 
+          come out!</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #312 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/KN6AndLJDpI" 
+          title="312. Do You Want to Come With Us? (And Nine Other Extraordinary Encounters With 
+          Extraterrestrials)."
+          aria-label="312. Do You Want to Come With Us? (And Nine Other Extraordinary Encounters With 
+          Extraterrestrials)"
+          target="_blank" rel="noopener noreferrer">EPISODE #312. DO<br>
+          YOU WANT TO<br>
+          COME WITH US?<br>
+          (AND NINE OTHER<br>
+          EXTRAORDINARY<br>
+          ENCOUNTERS<br>
+          WITH<br>
+          EXTRATERRESTRIALS)</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Mar 13, 2026 (1:02:34)</h3>
+          <p class="tallFirstLetter">Firsthand accounts of humanoids take us deep into the very heart 
+          of the UFO phenomenon. This video presents cases from across the world, each with striking 
+          commonalities which argue strongly for their veracity. Each also contains unique details of 
+          high strangeness which show we still have much to learn about the extraterrestrial presence 
+          on our planet. Each account provides a unique perspective and adds to our knowledge of these 
+          strange visitors to our planet.</p>
+
+          <p><b>I THOUGHT IT WAS A JOKE</b>. One <b>night in the summer of 1951</b>, Walter DeYoung and 60 
+          other army personnel rushed onto the runway at Mountain Home AFB in Boise, Idaho and observed 
+          a classic flying saucer hovering only a few hundred feet overhead. The craft had portholes which 
+          showed what appeared to be humanoid figures. The craft came so low that some of the men thought 
+          it would land.</p>
+
+          <p><b>THEY WERE VERY CONCERNED</b>. One <b>afternoon in 1952</b>, Mr. Thomas took a walk on the 
+          beach near Castlemartin, Wales, and stumbled upon a UFO. He was warned by human-looking occupants 
+          to come no closer but was able to hold a long conversation with the apparent ETs, who warned him 
+          that Earth was on a pathway towards self-destruction.</p>
+
+          <p><b>TERROR STRUCK ME</b>. One <b>night in the late 1950’s</b>, Mrs. C. Wickens walked to the 
+          bus-stop in Leigh, England, when she noticed three figures in glowing white jumpsuits and balaclava-
+          type helmets. An eerie silence settled over the area. She soon saw more of the strange figures. 
+          Then one approached her very closely. Convinced that they were not human, she fled in a panic.</p>
+
+          <p><b>DO YOU WANT TO COME WITH US?</b> One <b>night in December 1968</b>, agricultural engineer 
+          Robert Iglesias was stunned to see a flying saucer land near his home in Santiago, Chile. Two human-
+          looking figures in glowing jumpsuits approached and offered him an incredible invitation to go onboard 
+          their craft and travel with them into space. Robert was so overwhelmed by the possibilities of what 
+          might happen, he declined the invitation.</p>
+
+          <p><b>ALL MY LIFE I HAD DREAMED OF SUCH A MOMENT</b>. On the <b>night of July 7, 1972</b>, Mr. Joly 
+          was drawn outside his home in Racine, Quebec, Canada, by the bellowing of his cows. To his amazement, 
+          a strange craft had landed on his farm. Two short greenish beings wandered around the craft. As he 
+          stepped closer, the two aliens saw him and fled into the craft, followed by a third figure who was 
+          evidently caught by surprise. The craft departed, leaving behind strange landing traces and perhaps 
+          more.</p>
+
+          <p><b>I MET A SPACEMAN</b>. On <b>November 28, 1976</b>, Dr Leopoldo Diaz Martinez (a respected physician) 
+          received the surprise of his life when a human-looking extraterrestrial entered his office in Guadalajara, 
+          Mexico, and asked for a physical exam. Dr. Diaz agreed and was convinced of the man’s extraterrestrial 
+          origin. The ET shared information on many subjects: science, religion, politics, sociology and more.</p>
+
+          <p><b>A DARK BEING</b>. On <b>September 23, 1978</b>, immediately following a UFO sighting, army personnel 
+          stationed at Lake Balea, in the Carpathian Mountains of Romania, reported their sighting of a tall dark 
+          humanoid figure loitering outside the army barracks. After the humanoid figure was seen three times over 
+          two days, a sergeant approached it with two other men. The sergeant was rendered unconscious and the two 
+          others were temporarily paralyzed until the creature left.</p>
+
+          <p><b>A LEVITATING HUMANOID</b>. One <b>night in October 1978</b>, two factory workers from Godoy Cruz, 
+          Argentina, got the shock of their life when a two-foot-tall playful humanoid confronted them and then 
+          levitated them in their air, leaving them hopelessly suspended. The little man himself levitated upwards 
+          and disappeared into the sky, and the two men were returned to the ground.</p>
+
+          <p><b>EXTREMELY BEAUTIFUL</b>. On the <b>night of June 14, 1980</b>, Juan Froche Jiacola and his wife Ana 
+          were woken up in their home in Libertad, Uruguay by a strange noise coming from outside. Going to investigate, 
+          Juan saw two strikingly beautiful human figures (one male and one female) in skintight, almost transparent 
+          gray jumpsuits. But then the male figure tried to force open the door. Juan prevented the man’s entry but 
+          suffered a burnt hand as a result.</p>
+
+          <p><b>THE ALIENS ON THE BEACH</b>. One <b>morning in November 1980</b>, Domingos Monteiro Brito stepped out 
+          of his farmhouse in Braganca, Brazil and was amazed to see a craft land on the shoreline a short distance 
+          away. Two human-looking men emerged and proceeded to ask him many questions. Domingos was so shocked, he was 
+          scarcely able to answer. The ETs said they would return in one month and then departed.</p>
+
+          <p>These ten cases from all over the world are just a tiny sample of thousands upon thousands 
+          of other similar cases. While many of these cases are supported by various forms of evidence 
+          such as landing traces, electromagnetic disturbances, medical effects, animal reactions and 
+          more…it is the huge number of cases that make it undeniable that something very profound is 
+          happening here.</p>
+          
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #311 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/Y_7YEJEfR-A" 
+          title="311. We Will Not Harm You: Ten Shocking Onboard UFO Encounters."
+          aria-label="311. We Will Not Harm You: Ten Shocking Onboard UFO Encounters"
+          target="_blank" rel="noopener noreferrer">EPISODE #311.<br>
+          WE WILL NOT<br>
+          HARM YOU:<br>
+          TEN SHOCKING<br>
+          ONBOARD UFO<br>
+          ENCOUNTERS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Mar 06, 2026 (1:02:30)</h3>
+          <p class="tallFirstLetter">Being taken onboard a UFO! This is the ultimate UFO encounter. 
+          These cases dive into the very heart of the UFO phenomenon. They have the greatest potential 
+          to answer the many questions surrounding this subject, such as who are these visitors to our 
+          planet, where do they come from and why are they here? This episode presents ten cases from 
+          all over the world that you probably haven’t heard before.</p>
+
+          <p><b>I COULD NOT STOP MYSELF</b>. One <b>night in July 1968</b>, a young boy from Cleveland, 
+          Ohio was awakened by a bright light streaming into his window. He looked outside and saw 
+          a craft landed in the field across the street. He then recalled that he and his entire 
+          family (and some of his neighbors) walked in a trance onboard the craft. He was separated 
+          and physically examined by gray extraterrestrials. The next day, he had a strange scar 
+          and so did his siblings.</p>
+
+          <p><b>PREGNANT WOMAN TAKEN</b>. On the <b>evening of January 17, 1970</b>, Barbara Kent (8 
+          months pregnant) was in the living room of her home in Westbury, New York when the TV set 
+          began emitting strange beeping sounds. Suddenly she found herself lying on a table in a 
+          dimly lit room surrounded by strange creatures. The next thing she knew, she was in her bed. 
+          Years later, she spontaneously recalled the entirety of the encounter, being taken onboard 
+          and seeing grays who were interested in her pregnancy.</p>
+
+          <p><b>I WAS FASCINATED BY THEM</b>. One night in the <b>Summer of 1975</b>, a computer 
+          programmer woke up in her home to see gray aliens surrounding her bed. The glowed with light 
+          and showed her their ability to levitate objects. She was invited onboard and examined. 
+          They offered to teach her how to obtain supernatural abilities, but she declined. Finding 
+          herself in bed, she rushed to the window and saw the UFO taking off.</p>
+ 
+          <p><b>I WAS TAKEN INSIDE THE CRAFT</b>. On the <b>afternoon of August 30, 1978</b>, Miguel 
+          Freitas was at a ranch in Mendoza, Argentina when a UFO landed next to him. A glowing blue 
+          humanoid emerged and pulled him onboard. Inside he was physically examined. After speaking 
+          with him, the ETs gave him some alien artifacts and let him go. Miguel rushed to the police 
+          and gave them the artifacts, which were never seen again.</p>
+
+          <p><b>WE KNOW YOU</b>. On the <b>night of September 26, 1978</b>, Alejandro Hernandez and his 
+          son were driving outside of Chile, Santiago, when a UFO appeared overhead and pulled them 
+          and their car into the craft. Alejandro’s son passed out, but Alejandro was greeted by human-
+          looking figures who had an important message for him, one which Alejandro refused to share, 
+          saying only that it was deeply spiritual.</p>
+
+          <p><b>I WAS THERE ALONE, TERRIFIED</b>. On <b>November 25, 1978</b>, Pam and Chris Owen were 
+          driving near Trier, Germany when a UFO appeared. They raced away but soon realized they were 
+          missing one and a half  hours of time. Later, Pam went under hypnosis and recalled that she 
+          alone was taken onboard. The ETs seemed very interested in her pregnancy. Pam says that the 
+          encounter was scary, but the ETs were friendly.</p>
+
+          <p><b>THEY SAID THEY WOULD RETURN</b>. On <b>November 24, 1979</b>, a man was driving to his 
+          home in Lachute, Quebec, Canada when he saw a UFO. Arriving home, he was missing one and a 
+          half hours of time. Having flashbacks of being onboard, he went under hypnosis and recalled 
+          an extensive encounter where he was met by human-looking ETs, examined and given a tour of 
+          the craft.</p>
+
+          <p><b>WE WILL NOT HARM YOU</b>. On <b>May 14, 1990</b>, Vinbe Hari was in her home when human-
+          looking figures showed up and pulled her through the wall into a craft hovering above her 
+          house. She was taken to what appeared to be another planet and was questioned by the ETs. 
+          She was returned to her home, but later had a second encounter involving a physical exam, 
+          and other procedures and conversations which she refused to talk about.</p>
+
+          <p><b>I SHOULD HAVE BEEN TERRIFIED</b>. One <b>morning in July 1986</b>, a young woman was 
+          relaxing outside her home in Bilton, North Yorkshire, UK when a craft appeared overhead and 
+          levitated her inside. She was met by white-skinned gray aliens who examined her and gave her 
+          messages about the future. After being returned, she became interested in art, healing and 
+          environmentalism.</p>
+
+          <p><b>THIS THING WAS NOT HUMAN</b>. One <b>night in June 2004</b>, an 8-year-old boy had what 
+          he first thought was a nightmare of being pulled onboard a craft and physically examined by 
+          grays and mantid beings. He had never heard of such things, and was later shocked to hear 
+          about similar cases. He now wonders if his “nightmare” was actually real.</p>
+
+          <p>Onboard UFO encounters used to be considered rare events. Now many researchers are reversing 
+          their opinions and believe that millions of people may have had these kinds of experiences. The 
+          potential opportunities these cases provide to advance our knowledge cannot be underestimated. 
+          The ETs appear to be very advanced in science, psychic abilities, medicine and other fields of 
+          knowledge. For that reason alone, these cases are of profound importance and should be taken 
+          very seriously.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article> 
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #310 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/j5SP-MEoQA0?list=TLPQMDcwMzIwMjaAXjPVwkBEww" 
+          title="310. UFOs In Your Hometown: Episode Sixteen."
+          aria-label="310. UFOs In Your Hometown: Episode Sixteen"
+          target="_blank" rel="noopener noreferrer">EPISODE #310.<br>
+          UFOS IN YOUR<br>
+          HOMETOWN:<br>
+          EPISODE SIXTEEN</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Feb 27, 2026 (1:21:49)</h3>
+          
+          <p class="tallFirstLetter">I am delighted to present to you the latest installment, “UFOs 
+          in Your Hometown Episode Sixteen.” This ongoing UFO investigative series explores the idea 
+          that UFOs have been seen everywhere on this planet. It started out with a challenge: name 
+          any town, city or location on Earth, and I will find a UFO case there. You, the viewers, 
+          have provided a list of more than 1000 locations! Working down the list, we have explored 
+          almost 200 locations, and yes, every single one of them has a history of encounters. These 
+          include sightings, landings, humanoids, onboard encounters and more. Many of these cases 
+          are supported by evidence such as photographs, radar-returns, landing traces, medical 
+          effects, animal reactions, electromagnetic disturbances and more.</p>
+
+          <p>And that is true for the seven new locations we are exploring today, which include: 
+          Torrington, Connecticut; Anniston, Alabama; Scottville, Michigan; Quitman, Georgia; 
+          Abilene, Texas; Aloha, Oregon; and finally Reykjavik, Iceland. Have UFOs been seen in 
+          your hometown? Submit the name of your hometown and see!</p>
+
+          <p><b>TORRINGTON, CONNECTICUT</b>. This mid-sized city of 35,000 people has many interesting 
+          cases to offer. In <b>1972</b>, a man had a very close up sighting of a classic saucer in 
+          downtown Torrington. From <b>1984-1989</b>, there were numerous sightings during the famous 
+          Hudson Valley UFO wave which reached into Torrington. In <b>2004</b>, an amateur astronomer 
+          reported three sightings of darting star-like objects in the space of two weeks. In <b>2007</b>, 
+          a group of coworkers in a high-rise building watched in astonishment as a UFO remained visible 
+          for one and a half hours. In <b>2008</b>, a UFO passed so low over Route 8 that several cars 
+          lost power as the UFO passed overhead.</p>
+
+          <p><b>ANNISTON, ALABAMA</b>. This city of 21,000 people is home to the Anniston Ordnance Depot, 
+          a large munitions storage facility. In <b>1958</b>, a guard at the facility reported his sighting 
+          of an oval-shaped object which appeared to be surveying the area. One month later, in <b>January 
+          1959</b>, UFOs returned and again hovered over the base. In <b>1975</b>, a man pulled off of 
+          Highway 431 with several other cars to observed a dramatic UFO display involving a glowing blue 
+          object. In <b>1980</b>, a military man in basic training at Anniston AFB observed multiple objects 
+          over the base. Others there also saw the objects. In <b>1990</b>, three boys had a very close-up 
+          and unusual encounter right outside their home.</p>
+
+          <p><b>SCOTTVILLE, MICHIGAN</b>. This small town of 1300 people offers some very profound cases. 
+          In <b>1978</b>, a man had a close up encounter with a UFO that followed him home. In <b>1994</b>, 
+          two friends said that their car was based by a sphere-shaped object. In <b>2012</b>, a married 
+          couple were puzzled by strange lights near their home. The lights suddenly zoomed overhead and 
+          shone down intensely bright light, causing a half-hour of missing time and other weird effects.</p>
+
+          <p><b>QUITMAN, GEORGIA</b>. About 4000 residents live in this town, which also has some 
+          amazing encounters. In <b>1962</b>, a family observed a star-like object which zoomed 
+          towards them, showing itself to be a solid craft. In <b>1979</b>, a young man had missing 
+          time after a mysterious beam of light came into his room. This was one of several encounters, 
+          including one involving humanoids. In <b>1980</b>, a group of police officers and others saw 
+          a strange craft cavorting over town. In <b>2002</b>, three children flashed a flashlight at 
+          a star-like object which zoomed down right over their heads, causing them to flee in fear. 
+          In <b>2008</b>, a woman reported seeing gray aliens in her bedroom. And more!</p>
+
+          <p><b>ABILENE, TEXAS</b>. This city of 125,000 people has a long and rich history of 
+          encounters. In <b>1951</b>, the crew of a DC-4 aircraft had a scary encounter with a 
+          close-up object. So many cases here, too many to list…including a family who saw a 
+          classic disc, sightings by truckers and police officers, a UFO that hovered over a 
+          nearby lake, missing time encounters, humanoid encounters and more.</p>
+
+          <p><b>ALOHA, OREGON</b>. With 50,000 residents, this location has many interesting cases. 
+          In <b>1947</b>, a woman saw a very unusual-looking metallic disc. In <b>1973</b>, four boys 
+          saw a massive fleet of UFOs. More close-up sightings, and a crop circle case, and a case 
+          involving incredibly unusual humanoids and much more.</p>
+
+          <p><b>REYKJAVICK, ICELAND</b>. In <b>1976</b>, the crew of Glofax Airlines captured a UFO 
+          on radar. In <b>1984</b>, two hunters had a disconcerting encounter with a bizarre 
+          cryptozoological creature at Lake Kleifarvatn. In <b>1995</b>, a young couple experienced 
+          a frightening missing time encounter. In <b>1996, 2007, 2010</b> and <b>2014</b> there were 
+          more spectacular sightings. In <b>2018</b>, a young man had an encounter with UFOs and 
+          skinny occupants that he will never forget. And more!</p>
+
+          <p>These seven locations alone provide a microcosm for UFO activity all over the world. As 
+          this continuing investigation shows, UFOs appear to be ubiquitous. Cases are far more 
+          common than most people believed. UFOs are everywhere, almost certainly including your 
+          own hometown!</p>
+          
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+          </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #309 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/ooDZSXSO6LE" 
+          title="309. The Humanoids Are Here: Twelve Really Weird Humanoid Encounters."
+          aria-label="309. The Humanoids Are Here: Twelve Really Weird Humanoid Encounters"
+          target="_blank" rel="noopener noreferrer">EPISODE #309.<br>
+          THE HUMANOIDS<br>
+          ARE HERE:<br>
+          TWELVE REALLY<br>
+          WEIRD HUMANOID<br>
+          ENCOUNTERS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Feb 20, 2026 (1:07:20)</h3>
+          <p class="tallFirstLetter">As all humanity accepts the reality of the extraterrestrial 
+          presence on our planet, more people are stepping forward to share their firsthand encounters 
+          with humanoids. There are more cases than you might think. This video presents twelve 
+          firsthand accounts from all over the world. These involve a wide variety of humanoids, 
+          grays, human-looking figures, short humanoids, reptilians and more. Each case shares both 
+          commonalities and unique details that have much to teach us about life beyond Earth.</p>
+
+          <p><b>NO MAN LOOKS LIKE THAT</b>. On the <b>night of November 4, 1954</b>, Jose Alves was 
+          fishing at the Pardo River in Pontal, Brazil when a strange craft landed near him. To his 
+          shock, strange little men emerged and began to collect samples from the environment. It was 
+          a brief encounter, but it left the witness stunned and amazed.</p>
+
+          <p><b>A UFO WITH OCCUPANTS</b>. One <b>night in February 1957</b>, Ina Salter drove along a 
+          remote road near Georgetown, Connecticut when she came upon a cigar-shaped craft with portholes 
+          hovering by the road. Inside she saw strange movement. She knew instantly that this was not a 
+          normal craft.</p>
+
+          <p><b>ALIEN MINERS</b>. On the <b>night of June 13, 1967</b>, miner Carmen Cueno stepped outside 
+          the Domtar Gypsum Mine in Caledonia, Canada and was amazed to see two small disc-shaped craft low 
+          in the sky. Sitting on the ground below them was a much larger craft. In front of it were three 
+          humanoids collecting samples from the mine slag heap.</p>
+ 
+          <p><b>THE ALIEN IN THE DOCTOR’S OFFICE</b>. On <b>August 7, 1967</b>, Dr. Luis Sanchez Vega was in 
+          his office in Caracas, Venezuela when a little humanoid appeared and announced that he was an 
+          extraterrestrial. The ET held a conversation with the doctor and disappeared. Unknown to Dr. Sanchez, 
+          many other people were also having encounters in that area on that night.</p>
+
+          <p><b>THEY SEEMED TO FLOAT IN THE AIR</b>. On the <b>afternoon of August 18, 1972</b>, two bricklayers, 
+          Raimundo Villegas Alvarez and Pancho Torres were working on a house in Iztapalapa, Mexico when two 
+          7-foot-tall floating humanoids dressed in silver approached. It was an encounter that would leave both 
+          men deeply traumatized.</p>
+
+          <p><b>NO FEAR, NO FEAR, NO FEAR!</b> On the <b>night of February 13, 1976</b>, Carol W. was in her home 
+          in Ringwood, New Jersey when all the dogs began barking. Looking outside, she saw a short silver-suited 
+          humanoid standing in her yard. She was unable to move until the being left. Later, strange footprints were 
+          found.</p>
+
+          <p><b>ALIENS IN METALLIC SPIDER-LIKE CRAFT</b>. Just a few days after seeing a UFO, on <b>April 12, 1977</b>, 
+          Andrea Kerlin and Bridget O’Connor walked through a field near their homes in Tucson, Arizona when they 
+          saw a strange craft on the ground. As it took off, they saw a group of human-looking figures in jumpsuits. 
+          Soon they saw more short, bald humanoids.</p>
+
+          <p><b>A VERY STRANGE ENCOUNTER</b>. One <b>night in July 1977</b>, Molly Smith was driving near 
+          her home in rural Hulberg, Michigan when she saw a strange humanoid with big, slanted eyes, wearing 
+          a metallic blue uniform near the side of the road. As she drove by it, her car was lifted off the 
+          road and set on a woodpile. The humanoid disappeared and she ran home. Later, her whole family 
+          began having encounters.</p>
+
+          <p><b>MY BEDROOM WAS FILLED WITH GRAY ALIENS</b>. One <b>night in September 1980</b>, a mother and 
+          her 5-year-old son woke up to see a crowd of gray ETs in the bedroom of her home in Greeneville, 
+          Tennessee. They were unable to move and fell unconscious. The mother thought it might be a dream 
+          until her son confirmed all the details.</p>
+
+          <p><b>WE’RE NOT HERE TO HURT YOU</b>. One <b>night in 1980</b>, two siblings woke up in the bedroom 
+          of their home in Cape Town, South Africa to see the room filled with light. Looking outside, they 
+          saw at least 5 short humanoids wearing white spacesuits with dark visors holding strange instruments. 
+          The siblings received a telepathic message in their minds which convinced them that they were dealing 
+          with ETs.</p>
+
+          <p><b>NO SHRED OF DOUBT</b>. One <b>afternoon in January 1995</b>, three men were hiking in the El 
+          Yunque forest in Puerto Rico when one of them came upon a short gray ET. The little gray was closely 
+          examining the plant life. It finally noticed the witness who was able to approach very closely to the 
+          ET before it suddenly disappeared.</p>
+ 
+          <p><b>TEXAS REPTILIAN</b>. On <b>February 6, 1997</b>, Dr. Martin Feldman drove along a forested 
+          highway outside of Big Spring, Texas when he saw a green, scaly humanoid in the road. As he drove 
+          by it, the creature faced him and Dr. Feldman saw that it was not human. Going to the police, he 
+          learned that several others had also reported the strange creature.</p>
+
+          <p>These humanoid cases very clearly show that we are not alone in this universe. To dismiss 
+          these cases would be to lose a huge opportunity to learn about life beyond Earth. For that 
+          reason alone, these accounts should be taken seriously.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+          </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #308 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/iiE8e0lmlOc" 
+          title="308. Friends of Earth: The Onboard UFO Encounter of Michael and Janet."
+          aria-label="308. Friends of Earth: The Onboard UFO Encounter of Michael and Janet"
+          target="_blank" rel="noopener noreferrer">EPISODE #308.<br>
+          FRIENDS OF EARTH:<br>
+          THE ONBOARD<br>
+          UFO ENCOUNTER<br>
+          OF MICHAEL<br>
+          AND JANET</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Feb 13, 2026 (0:51:53)</h3>
+
+          <p class="tallFirstLetter">Just after sunset on <b>August 17, 1968</b>, sixteen-year-old Michael 
+          Lapp and nineteen-year-old Janet Cornell (pseudonyms) sat on the dock at the Buff Ledge 
+          Girls Camp on the shore of Lake Champlain, Vermont, where they were employed. Suddenly a 
+          brilliant star-like light appeared in the sky, swooped down and revealed itself to be a 
+          large glowing object. It ejected three smaller glowing objects and darted away. The three 
+          remaining objects began to dart around the sky, putting on a fantastic display. After about 
+          ten minutes, two of the objects moved off and one moved closer then plunged into the lake. 
+          Moments later it came out and started to approach the witnesses, who could now see it was a 
+          domed-shaped craft. It then approached to within fifty feet, and both could see two bald-headed 
+          humanoids with dark eyes inside a transparent dome. Janet found herself becoming entranced. But 
+          Michael heard a telepathic voice in his head as one of the ETs began to communicate with him. 
+          A long conversation followed, and despite his growing fear, Michael became curious about what 
+          it might be like to go inside the craft.</p>
+
+          <p>The craft promptly moved overhead and struck them both with a beam of light, causing them 
+          to lose consciousness. What seemed like moments later, they woke up on the dock, only to 
+          realized that an hour or two had passed. Meanwhile, other people at the camp had also seen 
+          strange aerial activity. As the days passed, Janet completely forgot about the encounter. But 
+          Michael began having flashbacks and dreams of being taken onboard. He became deeply spiritual 
+          and spent the next ten years thinking about what happened, while also trying to forget it. Then 
+          one day he read an article about UFOs and decided to contact an investigator.</p>
+
+          <p>Researcher Walter Webb was assigned the case, and after separately interviewing both Michael 
+          and Janet (who hadn’t spoken once since the encounter) he arranged to have them hypnotized. 
+          Under hypnosis, they both independently recalled being taken onboard the craft, meeting what 
+          appears to be gray aliens. Both described the beings as having over-sized bald heads, dark eyes, 
+          grayish-green skin, thin bodies and wearing skin-tight gray jumpsuits.</p>
+
+          <p>Michael and Janet recalled that they were transported inside a small craft to a much larger 
+          mother ship. Janet was placed on a table and given a thorough medical exam. Michael watched 
+          from the side while one of the grays explained that Janet was not being harmed, and that samples 
+          were being taken from Janet so that they could start life elsewhere in the universe. Janet 
+          confirmed that she felt no pain, and that while she felt like a specimen, the ETs were kind to 
+          her. One of the grays explained to her what was happening. Janet was unable to recall much else, 
+          except seeing Michael also being examined.</p>
+
+          <p>Michael was taken aside and given his own examination. He was reassured that no harm would 
+          come to him. The grays proceeded to answer a long list of questions posed by Michael. They 
+          told him that although they came from far away, they had been to Earth long before us, but 
+          were drawn back by humanity’s use of atomic energy and warned him that atomics were more 
+          dangerous than humanity knew. They identified themselves as “friends of Earth,” and expressed 
+          delight that Michael was able to remain conscious and calm and ask many questions. They said 
+          that he would be trained and taught by them, and that the knowledge he gained would take 
+          lifetimes to divulge. They said it would be hard for him to process the encounter afterwards 
+          and that at times, he would consider them evil, but the truth was, they loved him. Michael 
+          asked why they don’t help people on Earth and solve the many problems we have, such as 
+          starvation. The ETs explained that if they did that, humanity would never learn to help 
+          themselves, and it would make things much worse.</p>
+
+          <p>Michael asked many other questions, which they answered. When he asked if they all looked 
+          alike, they took him to a room where he saw more than a hundred different grays. He was 
+          placed in a chair where the ETs scanned his mind. The ETs appeared to be delighted by his 
+          potential. He was taken to another room and given more training about how to control his own 
+          thoughts. Finally, he was taken to a park-like setting where there were many other humans, 
+          all of whom were dazed or entranced. It appeared to him to be some kind of waiting area. He 
+          and Janet rejoined there, and suddenly both found themselves being placed back on the dock.</p>
+
+          <p>The case was thoroughly investigated by researcher Walter Webb and became known as The 
+          Buff Ledge Encounter. It remains one of the best documented, multiple-witness onboard UFO 
+          encounters in UFO history.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+          </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #307 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/90nsL5nQLKI" 
+          title="307. The Venezuelan UFO Wave of 1954: Invasion of the Hairy Humanoids."
+          aria-label="307. The Venezuelan UFO Wave of 1954: Invasion of the Hairy Humanoids"
+          target="_blank" rel="noopener noreferrer">EPISODE #307. THE<br>
+          VENEZUELAN UFO<br>
+          WAVE OF 1954:<br>
+          INVASION OF THE<br>
+          HAIRY<br>
+          HUMANOIDS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Feb 6, 2026 (1:10:20)</h3>
+
+          <p class="tallFirstLetter">UFO waves occur regularly across the planet. A UFO wave is a 
+          short period of intense UFO activity in a sharply defined area. One of the most intense 
+          and unique waves is one that happened in <b>December of 1954</b> in Venezuela. This wave 
+          involved virtually the entire range of UFO encounters including sightings, fleets of UFOs, 
+          landings and face-to-face encounters with humanoids. What makes the Venezuelan wave unique 
+          is that the humanoid cases almost exclusively involved short, aggressive hairy humanoids. 
+          This episode presents a day-by-day, hour-by hour account of this incredible UFO wave, from  
+          beginning to end.</p>
+
+          <p>The first hints of strange activity began in <b>February 1954</b> when a passenger plane 
+          had a closeup encounter over Barquisimeto. Two months later, a man outside of Caracas 
+          described a violent encounter with hairy humanoids. Then, on <b>November 4th</b>, three men 
+          encountered a UFO along the Amacura Delta and were amazed to see hairy humanoids gathering 
+          samples from the ground and putting them into the craft.</p>
+
+          <p>But it was the encounter on the <b>night of November 28, 1954</b>, in Petare that marked 
+          the actual beginning of the wave. Around 2am on that evening, Gustavo Gonzalez and Jose 
+          Ponce drove through town and came upon a circular craft blocking their way. A hairy being 
+          approached. Gustavo grabbed the being, who responded by throwing the man to the ground. As 
+          the being approached him again, Gustavo tried to stab it, but its body seemed hard as steel. 
+          More beings appeared. As Jose ran for help, one of the beings struck Gustavo with a beam of 
+          light, paralyzing him. The hairy humanoids retreated into their craft which took off. The 
+          two men reported their encounter. At first, they were not believed, but soon dozens of 
+          witnesses came forward to report UFO activity in that area on that night. The wave had 
+          begun!</p>
+
+          <p>Four hours later, a group of farmers in Palmarito saw a UFO land and humanoids outside 
+          it. Later that evening, numerous people saw a UFO hovering over the Avila Mountains above 
+          Caracas. That same evening, dozens of people saw a UFO land in the middle of the town of 
+          Borburata. From that day on, UFO encounters occurred nearly every, sometimes multiple 
+          accounts per day. Pilots reported near-misses with UFOs. Thousands of people in many 
+          Venezuelan cities reported a wide variety of craft. They were seen by farmers, police 
+          officers, priests, businessmen and more. Some sightings involved hundreds if not thousands 
+          of witnesses. Police stations were inundated with calls. Caracas seemed to be the focus of 
+          most of the activity, but virtually no area of Venezuela was spared. And it wasn’t long 
+          before more people started to report humanoids.</p>
+
+          <p>On <b>December 9</b>, a group of people in Chacao, saw a UFO hover and land in various 
+          parts of the town and at one point, humanoids came out. One man claimed to have tried to 
+          grab one. The next case to really capture the country’s attention occurred on <b>December 9</b> 
+          when two 15-year-old boys in Corora came upon a craft and were attacked by four hairy 
+          humanoids who tried to drag them into their craft.</p>
+
+          <p>Not long after this, a doctor and his father saw short humanoids cross the road in 
+          front of them, followed shortly by a UFO which rose up from the bushes and take off. 
+          Meanwhile sightings continued, including people seeing massive fleets of UFOs. Reportedly 
+          on the night of <b>December 14</b>, witnesses claimed to see a short non-human bipedal 
+          creature enter in the Hotel Embajada in Ciudad Bolivar.</p>
+
+          <p>On <b>December 15, 1954</b>, three men reported another hairy humanoid encounter in 
+          San Carlos Del Zulia. One of the men had stopped to relieve his bladder in the trees 
+          alongside the highway. He says he was attacked by a hairy humanoid. His two friends 
+          rushed to his side just in time to see the humanoid encounter a craft which took off.</p>
+
+          <p>Meanwhile, various towns and cities were visited nearly every day. There were so many 
+          sightings with so many witnesses, it was impossible to deny. On <b>December 19</b>, Jose 
+          Parra was jogging along a road near Valencia and came upon a landed craft and six short 
+          hairy humanoids. He turned to run and was struck by a paralyzing beam of light. The beings 
+          returned to their craft.</p>
+
+          <p>Sightings in some areas were so brazen that it was clear to the witnesses that the UFOs 
+          wanted to be seen. There were reports of people shooting at the UFOs, and others fainting 
+          from shock. There were at least ten documented humanoid accounts, and dozens of sightings, 
+          but the numbers of both are likely much higher as witnesses were often discouraged by 
+          officials from reporting their encounters. By the end of December, sightings finally began 
+          to slow down.</p>
+
+          <p>In <b>January 1955</b>, sightings slowed to a trickle and finally stopped. The wave was 
+          over. But the effects would last forever. The wave of encounters was impossible to cover up. 
+          To this day, the reason for the wave remains a mystery. But the people of Venezuela will 
+          never forget what happened in <b>December of 1954</b>.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #306 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/FMWAmgImnJA" 
+          title="306. I Felt No Fear: Ten Very Weird Humanoid Encounters."
+          aria-label="306. I Felt No Fear: Ten Very Weird Humanoid Encounters"
+          target="_blank" rel="noopener noreferrer">EPISODE #306. I<br>
+          FELT NO FEAR:<br>
+          TEN VERY<br>
+          WEIRD<br>
+          HUMANOID<br>
+          ENCOUNTERS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Jan 30, 2026 (0:59:27)</h3>
+
+          <p class="tallFirstLetter">One of the puzzling enigmas about humanoid encounters is the 
+          fact that they are almost without exception, always humanoid. The humanoid form appears 
+          to be the standard template throughout the universe. And yet, the variations among 
+          reported humanoids are astounding. Some look much like us, and some look very different. 
+          Despite all these differences, the cases also share striking commonalities that argue 
+          strongly for their veracity. This video presents ten cases of particularly unusual humanoids, 
+          each adding to our knowledge of these strange visitors to Earth.</p>
+
+          <p><b>IT TOOK MY BREATH AWAY</b>. <b>One morning in May 1950</b>, a father and daughter 
+          went to check the cows on their farm in Vaux-en-Dieulet, France. Suddenly a glowing object 
+          descended and landed nearby. As the glow faded, they saw it was a translucent saucer-shaped 
+          object with a little man inside. It looked like the Michelin man. The figure stared at them 
+          and the craft took off, leaving behind strange landing traces.</p>
+
+          <p><b>A COLD SCIENTIFIC MIND</b>. In <b>1954</b>, a family from Norco, California sat down 
+          to eat when they heard an odd sound outside. The mother and daughter rushed to the door and 
+          were amazed to see a small canoe-shaped craft with a transparent dome. In the dome were five 
+          human-looking men in jumpsuits staring down at them. The men wore jumpsuits and helmets. The 
+          craft left, leaving the witnesses wondering who they saw.</p>
+
+          <p><b>IT STILL GIVES ME CHILLS</b>. In <b>1981</b>, an 8-year-old girl crept down to the 
+          basement of her parents’ home in Fond du Lac, Wisconsin. She noticed a strange glow under 
+          the table and a long bony finger sticking up through a hole in the tabletop. She found 
+          herself face-to-face with a glowing humanoid with a large head, skinny body and huge dark 
+          eyes. She held a short conversation and the being left, leaving her with an enduring mystery.</p>
+
+          <p><b>SOMETHING THAT IS NOT SUPPOSED TO BE THERE</b>. One <b>night in October 1987</b>, a 
+          17-year-old student woke up in the bedroom of her parents’ home in Lucasville, Ohio to find 
+          that her covers had been pulled to the foot of her bed. But this time, looking around her 
+          room, she saw a gray alien wearing a blue jumpsuit standing by the wall. Suddenly, it 
+          smacked her on the forehead and she lost consciousness.</p>
+ 
+          <p><b>WE WILL BE BACK</b>. On the <b>night of September 20, 1997</b>, a 23-year-old woman 
+          spent the night at her boyfriend’s house in Texas and was awakened by a blue light and a 
+          humming noise. She realized she was paralyzed and floating above the bed. Two small grays 
+          and one tall one were in the room. She managed to break the paralysis and the ETs disappeared, 
+          but spoke to her telepathically saying, “We will be back!”</p>
+
+          <p><b>IT STOOD THERE WATCHING ME</b>. One <b>evening in June 1999</b>, unable to fall asleep, 
+          a young boy lay awake in a bedroom in his grandparents’ home in New Mexico. Without warning, 
+          a green light filled the room. Feigning sleep, the boy turned around and saw a gray alien 
+          standing there looking at him. Finally he fell asleep. Later he told his mother, and she 
+          told him that, as a kid, the same thing happened to her.</p>
+
+          <p><b>THOSE THINGS WALKED WITHOUT TOUCHING THE GROUND</b>. On the <b>night of November 19, 
+          2008</b>, a wave of UFO sightings swept over the city of Claudio in Minas Gerais, Brazil. 
+          Hundreds of people viewed the strange objects. A small group of police officers followed 
+          the lights and were amazed to see glowing humanoids floating above the ground. All 
+          experienced strange physical and mental effects.</p>
+
+          <p><b>I WAS SO SCARED</b>. One <b>night in June 2009</b>, a 23-year-old woman staying at 
+          her grandma’s home in Ashdown, Arkansas, found herself unable to sleep as a strange light 
+          was shining in her room. She hid under her covers. Almost immediately, something tried to 
+          pull the covers off her bed. She held on when without warning, a long-fingered gray hand 
+          clamped down on her wrist, causing her to black out.</p>
+
+          <p><b>I FELT NO FEAR</b>. As a young boy, “Donald,” recalled weird dreams of entities in 
+          his bedroom. Years later as an adult, on <b.July 16, 2011</b>, he and his wife stayed at 
+          a B&B at Cape May, New Jersey. That night he woke up to see two very strange humanoids 
+          wearing odd jumpsuits standing next to the bed. They stared at him studiously. He felt 
+          no fear. Suddenly they seemed to put him to sleep.</p>
+ 
+          <p><b>AN ALIEN IN THE EMPLOYEE BATHROOM</b>. On the <b>night of January 16, 2016</b>, a 
+          man went to the bathroom at Magneti Mareli Factory in Pulaski, Tennesee, where he worked, 
+          and was puzzled to see a unusual-looking man with gray skin and silver clothes peeking out 
+          from behind the wall. Suddenly the little man turned and jumped through a portal that 
+          appeared in the bathroom wall and disappeared.</p>
+
+          <p>Each of these ten cases have much more detail. Together, they show both the incredible 
+          diversity among humanoids, and the important similarities between the cases. Those who 
+          would deny the reality of the extraterrestrial presence on our planet have yet to 
+          adequately explain these and the many thousands (if not millions) of other reports.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #305 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/hkTP0X8nQUk" 
+          title="305. UFOs In Your Hometown: Episode Fifteen."
+          aria-label="305. UFOs In Your Hometown: Episode Fifteen"
+          target="_blank" rel="noopener noreferrer">EPISODE #305.<br>
+          UFOS IN YOUR<br>
+          HOMETOWN:<br>
+          EPISODE FIFTEEN</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Jan 23, 2026 (1:15:20)</h3>
+
+          <p class="tallFirstLetter">I am very happy to announce, “UFOs in Your Hometown: Episode 
+          Fifteen.” This ongoing UFO investigative series explores various towns and locations 
+          across the world, to prove that UFOs are being seen everywhere on this planet. So far, 
+          we have explored almost 200 locations…and yes, UFOs have been encountered in every one of 
+          them. This latest installment visits seven new locations and includes virtually the entire 
+          range of UFO encounters: sightings, landings, humanoids, missing time and more. If UFOs 
+          have truly been seen everywhere on this planet—as this series seems to show—the implications 
+          of this are profound.</p>
+
+          <p><b>MILDURA, AUSTRALIA</b>. This city of more than 30,000 people is well-known for 
+          growing grapes and citrus fruits. It also has a long and rich history of UFO encounters. 
+          On <b>March 10, 1967</b>, a family of seven had a very close sighting of a large oval-
+          shaped craft. Throughout the <b>1960s</b> and <b>1970s</b>, there were many impressive 
+          encounters, at least one involving a fleet of more than a dozen objects. An impressive 
+          landing case occurred on <b>September 25, 1976</b>, leaving undeniable traces on the 
+          ground. Another fascinating case involved two police officers who testify to their own 
+          encounter with an unknown craft.</p>
+
+          <p><b>TIBURON, CALIFORNIA</b>. This small town of 9,000 people not far from San Francisco 
+          has produced some compelling cases. On <b>August 26, 1956</b>, James Geer observed a fleet 
+          of 9 objects scooting across the sky at high speed. On <b>November 5, 2026</b>, a father 
+          and son used binoculars to watch a solid, metallic craft hover overhead for several minutes. 
+          After it disappeared, two military jets showed up, apparently to investigate. On <b>August 
+          15, 2019</b>, another father and son drove along Tiburon Blvd and saw a large metallic 
+          cigar-shaped craft move only 80 feet above their car, causing strange electromagnetic 
+          effects.</p>
+
+          <p><b>CORBIN, KENTUCKY</b>. This small town of about 8,000 people is perhaps best known 
+          for being the birthplace of Kentucky Fried Chicken. It also has some truly astonishing 
+          encounters. In the <b>1960s</b>, a couple were followed for miles by a UFO. One <b>night in 
+          September 1973</b>, a father and son had a UFO appear in front of their car, causing 3 hours 
+          of missing time. In <b>1988</b>, a young couple visiting Cumberland Falls had a close-up sighting 
+          of a huge disc-shaped craft. In <b>1999</b>, a couple driving in rural Corbin had a very close 
+          encounter with a craft, involving possible missing time.  In <b>2003</b> and <b>2015</b>, there were two 
+          separate encounters where witnesses had UFOs drop down directly over their heads. As late 
+          as <b>2021</b>, a man had a dramatic sighting of a triangular craft outside his home.</p>
+
+          <p><b>GLASSBORO, NEW JERSEY</b> On <b>September 5, 1964</b>, this small town was put on 
+          the UFO map when a series of sightings was followed by a report from two young boys of a 
+          UFO landing which left behind dramatic traces on the ground. It was a case that left more 
+          questions than answers. In <b>1973</b>, a college student had a close-up sighting with a solid 
+          craft. More impressive sightings occurred in <b>1999</b>, and one in <b>2011</b> involving 
+          many witnesses and a fleet of 10 objects. In <b>2020</b>, a man had an unusual series of 
+          sightings in his backyard which were only picked up by his infrared security camera.</p>
+
+          <p><b>WINTER SPRINGS, FLORIDA</b>. This town has many reports of amazing UFO encounters. 
+          In <b>1997</b>, six people saw a solid top-shaped object hovering at low altitude above their 
+          home. The <b>2000s</b> were particularly active with several separate cases of people seeing 
+          various types of UFOs including boomerang-shaped, egg-shaped, dome-shaped, U-shaped and 
+          more, many involving multiple witnesses. The <b>2010s</b> were equally active, with 
+          sightings in <b>2011, 2013</b> and one in <b>2014</b> involving multiple independent 
+          witnesses. In <b>2019</b>, a man reported his sighting with a strange humanoid which 
+          communicated with him telepathically.</p>
+
+          <p><b>MASSILLON, OHIO</b>. This city of more than 30,000 people has many incredible cases. 
+          The <b>1960s</b> had a case involving a fleet of 11 objects, another involving a cigar-shaped 
+          craft with humanoids staring down at the witnesses, and a third involving a dramatic 
+          display of solid objects. In <b>1973</b>, there was a wave of encounters, one which involved a 
+          UFO landing on a man’s car. In <b>1982</b> there was a massive wave of sightings. In 
+          <b>2007</b>, two barmaids had a very memorable and closeup encounter. The encounters 
+          continued, including a few with photos and video.</p>
+
+          <p><b>SMITHFIELD, NORTH CAROLINA</b>. One <b>night in 1984</b>, Wilma Creech had an 
+          incredible encounter with a craft with portholes which struck her with a beam of light 
+          and knocked out her phone and power. Shortly later, he daughter also had a very close 
+          encounter. An amazing case occurred in <b>2013</b> involving two neighbors who saw three UFOs 
+          hanging around their house for over an hour, coming as low as ground level before finally 
+          departing.</p>
+
+          <p>Seven new locations, making it increasingly undeniable that UFOs are being seen 
+          everywhere on this planet. Have UFOs been seen in your hometown? More than likely, the 
+          answer is, YES!!!</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #304 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/vTg3CkurBg8" 
+          title="304. I Was Never So Terrified in My Life: Ten Astounding Humanoid Encounters."
+          aria-label="304. I Was Never So Terrified in My Life: Ten Astounding Humanoid Encounters"
+          target="_blank" rel="noopener noreferrer">EPISODE #304.<br>
+          I WAS<br>
+          NEVER SO<br>
+          TERRIFIED<br>
+          IN MY LIFE:<br>
+          TEN ASTROUNDING<br>
+          HUMANOID<br>
+          ENCOUNTERS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Jan 16, 2026 (1:03:09)</h3>
+          
+          <p class="tallFirstLetter">Humanoids! Reports come from all over the world and go back 
+          centuries. There are tens of thousands of documented cases. Since most people never 
+          report their encounters, the number is more likely in the millions. This video presents 
+          ten little known cases, each adding to the growing worldwide database, showing with 
+          increasingly certainty that we are not alone in this universe.</p>
+
+          <p><b>EXTRATERRESTRIAL HOUSE GUESTS</b>. In the <b>early 1950s</b>, a nurse lay in bed in 
+          her home in Corby New Town, England, when a small shiny object flew into her bedroom and 
+          landed on the floor. It soon faded away, but moments later, three human-looking men in 
+          black jumpsuits entered her home and began to speak to her telepathically. They said that 
+          they were extraterrestrials from another planet and asked if she wanted to visit. The nurse 
+          was not afraid but declined the invitation.</p>
+
+          <p><b>A CONVERSATION WITH AN ALIEN</b>. On <b>October 17, 1969</b>, a man from Toolo, 
+          Finland, was shocked when a strange orb appeared in his home and began to speak to him. 
+          It said that they ETs in a ship above Earth. They requested that he tell the world about 
+          their presence, and that they were friendly. The man requested to see them, but they said 
+          that this was impossible, but they would return later.</p>
+
+          <p><b>THE NORDIC IN THE FOREST</b>. In <b>1974</b>, Pedro, a young boy from Puerto Rico 
+          was visiting the home of Carlos Ochoa, a famous UFO contactee. When the man walked into 
+          the Yunque forest one night, Pedro secretly followed him and was shocked when he was 
+          confronted by a 7-foot-tall blond man in a skintight silver uniform. Pedro was paralyzed 
+          by a strange force coming from the man. Pedro fled. Shortly after this, he had a close-up 
+          encounter with a UFO.</p>
+
+          <p><b>THE JAY-WALKING GRAY</b>. On the <b>night of December 24, 1974</b>, a man drove on a 
+          lonely highway through Cherry Hill, New Jersey. Without warning, a strange creature jumped 
+          into the road. It stopped like a deer in the headlights, and the witness saw it was a bald, 
+          skinny, gray-skinned humanoid. It seemed paralyzed with surprise, then leapt off the road. 
+          It took years before the witness realized he saw a gray alien.</p>
+
+          <p><b>I WAS NEVER SO TERRIFIED IN MY LIFE</b>. One <b>night in the fall of 1975</b>, a 
+          12-year-old girl woke up in the bedroom of her home to see five humanoid creatures in her 
+          bedroom. One of them stood by her bed, waving its hands over her body. The girl was 
+          terrified and unable to move or speak out. She saw one standing guard by the bedroom door, 
+          while the others explored her room. She finally passed out. In the morning, they were gone. 
+          From that night on, she suffered from chronic insomnia.</p>
+
+          <p><b>A LIFE-CHANGING EXPERIENCE</b>. On <b>October 16, 1980</b>, “Cheryl” was getting 
+          ready to go to sleep when she noticed strange lights outside her home in Winchester, 
+          Wisconsin. She called her husband, and they both watched the light zoom forward and strike 
+          them with a beam of light. They ran outside and were amazed to see it was a flying saucer, 
+          and inside were several humanoid figures looking down at them. They later learned many 
+          people in the area were seeing UFOs.</p>
+
+          <p><b>THE FLYING THING</b>. One <b>night in late 1995</b>, a group of ten churchgoers were 
+          traveling by bus near Wedowee, Alabama, when a glowing object began to pace their vehicle. 
+          It followed them for the next half-hour. At one point, it came close enough that they saw 
+          a strange humanoid figure moving around inside. Afterwards, a few of the ladies had watery 
+          and sore eyes.</p>
+
+          <p><b>BEAMED BY A UFO</b>. <b>After midnight on July 9, 2007</b>, a woman driving home from 
+          work was confronted by a huge UFO over Interstate 20 in Fort Worth, Texas. She wondered if 
+          it was a hoax of some kind until it struck her with a blue beam of light. Then she saw an 
+          opening in the craft and saw four grays and two tall human-looking figures. It paced her 
+          car for a while, then darted off at incredible speed.</p>
+
+          <p><b>HEALED BY GRAY ALIENS</b>. On <b>July 23, 2012</b>, a man was driving when a voice 
+          told him to drive to his parents’ home in Lehighton, Pennsylvania. Arriving there, the 
+          dogs were barking furiously, and he saw two grays outside, accompanied by taller shadowy 
+          figures. Frightened, he ventured outside with a fire-stoker. The next thing he knew, he 
+          was waking up on the ground hours later. To his amazement, his broken foot was healed.</p>
+
+          <p><b>THE ALIEN IN THE KITCHEN</b>. Lying on the couch one night at her grandparents’ home 
+          in rural Tennessee, a young lady noticed strange lights outside. She called her grandfather 
+          and they looked outside, but nothing was there. He went back to bed, and shortly later, the 
+          girl was shocked when she noticed a strange humanoid in the kitchen staring at her. It was 
+          bald with large dark eyes and gray skin. Scared by its strange appearance, she closed her 
+          eyes and pretended to be asleep until it went away.</p>
+
+          <p>These accounts are remarkably consistent. In fact, the striking commonalities between 
+          cases widely separated in time and space argue strongly for their veracity. We are not 
+          alone!</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #303 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/kHNprgNPB-Y" 
+          title="303. The Onboard UFO Encounters of Leo and Mike Dworshak."
+          aria-label="303. The Onboard UFO Encounters of Leo and Mike Dworshak"
+          target="_blank" rel="noopener noreferrer">EPISODE #303.<br>
+          THE<br>
+          ONBOARD UFO<br>
+          ENCOUNTERS OF<br>
+          LEO AND MIKE<br>
+          DWORSHAK</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Jan 9, 2026 (0:54:48)</h3>
+
+          <p class="tallFirstLetter">One of the most astounding cases of UFO contact is that of Leo 
+          and Mike Dworshak, two brothers from the small town of Killdeer, North Dakota. In the <b>summer 
+          of 1932</b>, Leo (age 12) and Mike (age 8) were hiking near their home when they came upon a landed 
+          silver flying saucer. At that time, neither of them had heard of UFOs (few had!) so they had no 
+          idea what they were seeing, but they knew it was unusual. They became even more intrigued when a 
+          door opened and three men wearing jumpsuits emerged. The boys tried to move closer, but found 
+          their path forward blocked by an invisible forcefield. The men walked around briefly and then 
+          returned inside the craft. It was getting dark, so the brothers returned home. This was to be the 
+          first of an escalating series of contacts.</p>
+
+          <p>Over the next few days, they returned to the area hoping to see it again. Their patience 
+          was rewarded when, two weeks later, they were in the valley and the craft appeared overhead. 
+          They hid behind some bushes and watched in awe as the craft landed. As before, men came out 
+          of the craft and began to study the environment. The boys tried to move closer but again 
+          found themselves blocked by a forcefield. They watched for an hour, but as night fell, they 
+          returned home. They told their parents about it, but they were dismissive, and told them not 
+          to talk about it.</p>
+
+          <p>A few weeks later, they returned to the valley and again, the craft landed nearby. This 
+          time they were able to approach within 800 feet before being stopped by the forcefield. 
+          Still the strange visitors seemed oblivious to the presence of the boys, but both boys felt 
+          certain that the men were aware of them.</p>
+
+          <p>By now Leo and Mike were becoming obsessed with the UFO and the strange men. It was 
+          beginning to dawn on them that these men probably came from outer space and were studying 
+          the valley for some mysterious reason. They longed to get closer and make contact, and maybe 
+          even go onboard the craft. Two weeks later they had their fourth encounter. It was the same 
+          as before, only this time they stayed long enough to watch the craft leave.</p>
+
+          <p>They realized by this time that the saucer almost always visited in late afternoon, so 
+          they began to spend more time in what they now called “spaceship valley.” One afternoon in 
+          <b>late August</b>, they were in the area when the ship landed closer than ever, only 300 feet away. 
+          This time, they found themselves stuck in the forcefield, unable to move forward or back. 
+          They were both frightened and thrilled. It was dark when the men finally entered the craft, 
+          hich took off, releasing the boys. They rushed home. Strangely, their parents didn’t seem 
+          to notice or care that they were out after dark.</p>
+
+          <p>Three days later, on <b>August 28</b>, they returned to the valley and had their sixth encounter. 
+          They were able to approach within 100 feet of the craft before the forcefield stopped them. 
+          They got their best look at the strange visitors, who all had brown hair, blue eyes, wore 
+          strange jumpsuits and looked almost exactly alike. They tried waving and calling out but 
+          got no response. So Mike began jumping up and down and screaming, at which point a few of 
+          the men looked at them, and the boys again found themselves glued to the ground by the 
+          invisible forcefield. The craft left and the boys ran home.</p>
+
+          <p>By now, they started to know when the craft would be there and when it wouldn’t. Some 
+          days later, they got the feeling it was there and hiked the one and a half miles to the 
+          valley and there it was. This time, they were stopped much further than normal. They waved 
+          at the men, and to their delight, a few of the men waved back. Then one approached to within 
+          10 feet of the boys, smiled and held his hand up in a welcoming gesture, then turned around 
+          and joined the other men, who all went back onboard the craft. The forcefield released, and 
+          the boys ran home. They told their parents again, who were more receptive this time, but 
+          told them not to talk to anyone about it.</p>
+
+          <p>Several days later, they had their eighth encounter. This time they were able to walk 
+          directly up to the craft and the strange men and got their closest look ever. One of the 
+          men spoke verbally to them, saying that the boys had been very determined to learn about 
+          them, and that they were, as the boys had guessed, extraterrestrials. The man told them 
+          that they would meet again and learn much knowledge from them. The boys realized that the 
+          ETs had already telepathically downloaded volumes of information about themselves and the 
+          future of the Earth.</p>
+
+          <p>On <b>September 19</b>, Leo and Mike knew that the craft would be in the valley. It was 
+          almost evening when they arrived, and this time they were invited onboard the craft. They 
+          were given a tour of the craft and shared a two-hour-long conversation where the ETs shared 
+          volumes of information. This was to be the first of many other onboard encounters for Leo 
+          Dworshak, who continued to be visited by the ETs throughout his life.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #302 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/gUdZ0Hm49BM" 
+          title="302. UFO Crash Retrievals: Ten Stories of Crashed UFOs, Alien Bodies &amp; Reverse 
+            Engineering ET Craft."
+          aria-label="302. UFO Crash Retrievals: Ten Stories of Crashed UFOs, Alien Bodies &amp; 
+            Reverse Engineering ET Craft"
+          target="_blank" rel="noopener noreferrer">EPISODE #302. UFO<br>
+          CRASH RETRIEVALS:<br>
+          TEN STORIES OF<br>
+          CRASHED UFOS,<br>
+          ALIEN BODIES<br>
+          &amp; REVERSE<br>
+          ENGINEERING ET<br>
+          CRAFT</a></h2>
+        <article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h3>Jan 2, 2026 (1:07:45)</h3>
+
+          <p class="tallFirstLetter">It is perhaps the single most controversial aspect of UFO 
+          research. At first, researchers refused to even consider the possibility that such things 
+          could even happen. Today, UFO crashes are considered the cutting edge of UFO research. 
+          Cases like these are more common than most people know. In fact, there are hundreds of 
+          accounts. If true, UFO crash/retrieval cases represent the best possible evidence there 
+          is: the actual craft and alien bodies. This video presents ten little known cases, ten 
+          pieces of the puzzle towards ending the UFO coverup.</p>
+
+          <p><b>HE WASN’T SUPPOSED TO SEE</b>. In <b>1946</b>, ten-year-old Tex Martin was invited 
+          by his father to join him at his place of employment at Wright Field in Dayton, Ohio. 
+          Wandering around, Tex came across an open door to a hangar and couldn’t believe his eyes. 
+          There was a UFO and several alien bodies lying on the floor. He called his father to view 
+          them too. Soon both would regret having seen what they saw.</p>
+
+          <p><b>EYEWITNESS TO A UFO CRASH</b>. In <b>early July, 1947</b>, a welder stationed at 
+          Walker AFB (soon to be renamed Roswell) was called to an aircraft crash in the desert. He 
+          was taken to a saucer-shaped craft that had come down in the desert. It had no openings. 
+          It was his job to blow-torch an opening. He obeyed and created an opening. Looking inside, 
+          he saw three dead alien bodies in purple jumpsuits.</p>
+
+          <p><b>OF INTERPLANETARY NATURE</b>. In <b>August, 1952</b>, a teletype secretary at an 
+          unnamed air base in Ohio went to the photo lab and was surprised to see the technician 
+          developing several pictures of flying saucers. The technician said he had taken the photos 
+          himself after being taken to the actual crash site. The secret soon learned that the craft 
+          were believed to be of interplanetary in origin.</p>
+
+          <p><b>THE MATTYDALE INCIDENT</b>. In <b>1954</b>, a couple were driving through Mattydale, 
+          New York when they came upon a group of police cars. Looking out into the nearby field, 
+          they saw a classic flying saucer with multicolored lights sitting out in the field. They 
+          drove off and later called police and newspapers, who told them it was a military secret 
+          and not to talk about it.</p>
+
+          <p><b>I COULDN’T BELIEVE WHAT I WAS SEEING</b>. In the <b>summer of 1953</b>, “HJ” was a 
+          private in "B" Company at Camp Polk, Louisiana when he and his fellow officers saw an egg-
+          shaped UFO come in for a crash landing. Ordered to guard it, an emergency team arrived. He 
+          saw three short beings exit the craft. One had to be carried out by stretcher. He later 
+          learned they were taken to an isolation ward where they passed away.</p>
+
+          <p><b>NOBODY WILL BELIEVE YOU</b>. <b>1980s</b>. NEW MEXICO. In the <b>1980s</b>, Jonathan, 
+          a flight commander Trainee had the opportunity to speak with a retired CIA agent who began 
+          to share startling information that the US Air Force has recovered crashed UFO and alien 
+          bodies. He said that scientists learned to reverse-engineer the craft and were flying them 
+          over New Mexico Highways.</p>
+
+          <p><b>RETURN TO SENDER</b>. In the <b>late 1980s</b>, Diane Tai (a contactee) and her husband 
+          were shocked when a package arrived in the mail by mistake. The package turned out to hold 
+          copies of letters between a colonel and Senator Barry Goldwater talking about UFOs and aliens 
+          being held in captivity. The letters made it clear that our government knows far more about 
+          this subject than they have publicly revealed.</p>
+
+          <p><b>THE WHISTLEBLOWER</b>. In the <b>1980s</b>, a civilian subcontractor who worked at 
+          Edwards Air Force Base in California was walking by a hangar when he heard a low thrumming 
+          noise. Turning, he saw a small silver craft, a flying saucer, suspended in the hangar. His 
+          employer refused to discuss it, until many years later, finally revealing that it was in 
+          fact a human-piloted craft using ET technology.</p>
+
+          <p><b>THEY DEFINITELY DID NOT LOOK HUMAN</b>. In <b>1986</b>, a 14-year-old boy and his 
+          fellow civil air patrol members were taking a tour of the Air Force Museum at Wright 
+          Patterson AFB in Ohio, when their guide, an airman first class, took them into a private 
+          hangar and showed them what appeared to be alien bodies being kept preserved in glass 
+          tubes behind a thick glass wall. No other information was shared, and to this day, he 
+          wonders what he saw.</p>
+
+          <p><b>A SECRET BASE IN ALASKA</b>. Sometime in the <b>1990s</b> a high school student 
+          received an almost perfect score on the SATs. This caught the attention of the US 
+          government who hired him to work at a secret underground base in Alaska. The witness 
+          says that the base worked in three main areas: biological warfare, advanced sensing 
+          devices, and the reverse engineering of extraterrestrial technology.</p>
+
+          <p>These 10 cases are just the tip of the iceberg. It's becoming undeniable that our 
+          governments have UFOs and alien bodies in their possession. Sadly none of this evidence 
+          is in the public arena, and the entire subject relies solely on anecdotal eyewitness 
+          testimony. Despite this, there are too many cases to dismiss. And if even one is true, 
+          it’s a game-changer and has the potential to revolutionize the way all humanity views the 
+          UFO subject.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #301 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/7LYoKQgOE4g" 
+          title="301. Let Me Remember: Seven Shocking Onboard UFO Encounters."
+          aria-label="301. Let Me Remember: Seven Shocking Onboard UFO Encounters"
+          target="_blank" rel="noopener noreferrer">EPISODE #301. LET<br>
+          ME REMEMBER:<br>
+          SEVEN<br>
+          SHOCKING<br>
+          ONBOARD UFO<br>
+          ENCOUNTERS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Dec 26, 2025 (0:46:42)</h3>
+
+          <p class="tallFirstLetter">Almost everything we know about extraterrestrials comes from 
+          one source: the contactees, the people who have had face-to-face contact. The onboard UFO 
+          experience remains controversial, and yet there are many thousands of firsthand accounts 
+          coming from across the world. Cases reach back decades. They contain striking commonalities 
+          that argue strongly for the veracity of these accounts. This video presents seven astonishing 
+          and shocking cases, each offering a tantalizing glimpse into the very heart of the UFO 
+          phenomenon. These cases offer us an unparalleled opportunity to learn firsthand about life 
+          beyond Earth.</p>
+
+          <p><b>I REMEMBER IT LIKE YESTERDAY</b>. One <b>night in June 1976</b>, two siblings (a 
+          10-year-old boy and his little sister) were walking to their home in LaPorte, Texas when 
+          a brilliant object appeared overhead. Moments later, it was landing a short distance away, 
+          revealing itself to be a craft. A door opened and a tall gray alien emerged and pulled the 
+          two children onboard. Both recall communicating telepathically and being examined by the 
+          ETs. As they were being examined, they blacked out and woke up at the spot where they had 
+          been taken. It was now 3:00 am, much later than it had been. Both siblings agreed never 
+          to talk about what happened to anyone.</p>
+
+          <p><b>A CALM I CAN’T EXPLAIN</b>. On <b>September 7, 1980</b>, Gene and May Gautreau were 
+          hunting in the wilderness of south-eastern Wyoming. On the evening in question, they woke 
+          up to see strange lights outside their tent. Despite the strange lights, they found 
+          themselves going to sleep. The next morning, they found their tent inexplicably littered 
+          with leaves and dirt. Learning about the phenomenon of missing time, they agreed to try 
+          hypnosis. They recalled that tall gray ETs came to their tent and guided them into a craft 
+          where they underwent a strange examination. Following the encounter, they began to 
+          experience a variety of unexplained and psychic events.</p>
+
+          <p><b>EXAMINED BY ALIENS</b>. One <b>evening in January 1990</b>, a teenager from 
+          Curitiba, Brazil saw a brilliant golden sphere hovering overhead. He found himself 
+          paralyzed for a moment as it quickly darted away. Later that same year, the boy saw ETs 
+          in his bedroom. After more strange events, he elected to try hypnosis. He was taken back 
+          to his sighting of the golden sphere and recalled being levitated by beam of light into 
+          the craft. He met short gray ETs who conducted a thorough examination. Before releasing 
+          him, they showed him strange images he couldn’t understand.</p>
+
+          <p><b>I WASN’T HARMED IN ANY WAY</b>. In the <b>summer of 1993</b>, a woman was shocked 
+          when she had a very vivid dream of, short, gray-skinned aliens coming into the bedroom 
+          of her home in Paulsboro, New Jersey, and pulling her onboard a craft. Inside she was 
+          subjected to a thorough physical examination before being released. She had never heard 
+          of UFO abductions and assumed it was a strange waking dream. But over the next week, she 
+          had the same exact dream every night. Later, she saw accounts of people who claimed to 
+          have been abducted, and she realized her “dream” matched exactly what people were 
+          describing.</p>
+
+          <p><b>LET ME REMEMBER</b>. One <b>evening in Spring 2005</b>, a woman was in the bedroom 
+          of her home in Wallingford, Connecticut when her bedroom door began rattling. At the same 
+          time, she heard a telepathic message to come to the door. Standing up, she found herself 
+          face-to-face with a short gray alien. As it spoke telepathically to her asking her to 
+          follow, she said she would only agree if she was allowed to remember her encounter. She 
+          recalled being taken outside her home and into a craft. She saw her home and the entire 
+          planet recede, and was then taken to an exam room. She recalled little else except waking 
+          up several hours later.</p>
+
+          <p><b>“WE ARE LOOKING AT YOUR DNA.”</b> One <b>evening in April, 2013</b>, a young man 
+          was amazed to see a UFO outside his home in Pleasantville, New Jersey. Following the 
+          sighting, he began to have a feeling of being watched. Three weeks later, he found 
+          himself taken from his bedroom into a craft where he was examined by gray aliens. He saw 
+          many other people onboard, including his sister. He was able to hold a short conversation 
+          with the ETs who revealed why the man had been taken and where the ETs came from.</p>
+
+          <p><b>IT WASN’T A DREAM</b>. On the <b>night of August 11, 2014</b>, a man from Massillon, 
+          Ohio, was suffering from depression when he found himself inside a craft being examined 
+          by 6-foot-tall gray aliens. He asked the ETs why they had taken him and received a very 
+          puzzling answer. The ETs proceeded to perform a frightening procedure which caused him to 
+          pass out. Upon awakening back in his bedroom, he found a mysterious and painful scar on 
+          his foot. He is still seeking answers about what happened to him.</p>
+
+          <p>These seven cases display many of the common patterns we see with onboard UFO 
+          encounters, and yet each also contains unique elements which show that we still have 
+          much to understand about extraterrestrial contact.</p>
+        
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #300 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/_roY-ZTha9M" 
+          title="300. The Scariest Night of My Life: Ten Truly Bizarre Encounters with Humanoid 
+          Extraterrestrials."
+          aria-label="300. The Scariest Night of My Life: Ten Truly Bizarre Encounters with 
+          Humanoid Extraterrestrials"
+          target="_blank" rel="noopener noreferrer">EPISODE #300. THE<br>
+          SCARIEST NIGHT<br>
+          OF MY LIFE:<br>
+          TEN TRULY<br>
+          BIZARRE<br>
+          ENCOUNTERS<br>
+          WITH HUMANOID<br>
+          EXTRATERRESTRIALS</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Dec 19, 2025 (1:04:08)</h3>
+
+          <p class="tallFirstLetter">Only a person who has had a face-to-face encounter with an 
+          extraterrestrial humanoid can truly know what it’s like. Words such as “shocking,” 
+          “scary,” or “bizarre,” only hint at the powerful impact such an experience can have. 
+          This video presents ten firsthand cases of human encounters coming from all over the 
+          world. Cases like these have much to teach us about these strange visitors to our 
+          planet, and about ourselves and our relationship to the ETs.</p>
+
+          <p><b>I WAS NEVER AFRAID</b>. On the <b>morning of August 8, 1968</b>, two men began a 
+          thousand-mile drive from Seattle, Washington to Los Angeles, California. As night arrived, 
+          they noticed an odd light pacing their vehicle. Soon there was another, and then a third. 
+          Suddenly, the third object dropped down in front of their car and a half-dozen humanoids 
+          looked down at them. It was a face-to-face encounter that would leave them both shaken.</p>
+
+          <p><b>THE ALIEN CHAUFFEUR</b>. On the <b>night of November 8, 1971</b>, a schoolteacher 
+          waited at a bus-stop outside of Turku, Finland, when a car stopped in front of her and a 
+          man offered her a ride. She accepted and was amazed to see that the man wore a shiny 
+          silver jumpsuit and emitted a strange forcefield around him. The car took off in silence 
+          and seemed to float over the road, which was now strangely devoid of traffic. By the end 
+          of the trip, the teacher was convinced the man was not human.</p>
+
+          <p><b>I WAS SHOCKED</b>. On the <b>night of December 6, 1978</b>, Pilar Martinez de Arregui 
+          was shocked to see a strange craft land in the fields of her farmhouse in Alegria, Spain. 
+          Looking out the window, she saw two men in jumpsuits approaching her home. She fled to the 
+          bedroom, but still curious, she returned to the window just in time to see the craft taking 
+          off. Later, strange landing impressions were found in her field.</p>
+
+          <p><b>THE HAIRY GRAY ALIEN</b>. <b>One day in 1989</b>, a ten-year-old boy took a walk with 
+          his dog in the forests behind his home in rural Wisconsin. Suddenly his dog stopped and 
+          stared ahead. Looking up, the boy was amazed to see a strange being with large dark eyes, 
+          brownish skin and white-blond hair staring back at him. After a short stand-off, the boy 
+          and his dog ran away. Later, he saw pictures of other grays and realized he had seen an 
+          alien.</p>
+
+          <p><b>I FROZE DEAD IN THE MIDDLE OF A SCREAM</b>. Peter was just a little boy when he woke 
+          up one <b>night in March 1994</b> in his home in Middletown, New Jersey to see two aliens 
+          floating around in his backyard. One floated right up to his window and stared at him 
+          face-to-face. The boy turned to run and found himself frozen in place. After the event, 
+          he totally forgot what happened, and only recalled it years later in a bizarre way.</p>
+
+          <p><b>I WAS SHOCKED BEYOND BELIEF</b>. On the <b>night of July 27, 2008</b>, a couple 
+          woke up in their home in Columbus, Ohio, to see the ceiling swirling with strange lights. 
+          Suddenly one of them noticed a humanoid face in a beam of light. He turned to his partner, 
+          who could not see the face. Moments later, more than a dozen grays appeared in the room. 
+          Still, his partner was unable to see them.</p>
+
+          <p><b>THE SCARIEST NIGHT OF MY LIFE</b>. Hearing about a man who claimed to be able to 
+          call down UFOs, a 14-year-old from Leesport, Pennsylvania decided to try doing the same 
+          thing. On <b>November 24, 2004</b>, he mentally asked for an encounter. Hours later, there 
+          was a UFO sighting near his home. That night he was woken up by ETs in his room. Soon the 
+          ETs would be back and he had a dream memory of being taken onboard.</p>
+
+          <p><b>WE ARE STILL AFRAID</b>. On <b>May 5, 2014</b>, while driving along the I-77 in 
+          Charlotte, North Carolina, a mother and daughter were amazed to see a UFO appear in 
+          front of the car. As they drove, the craft seemed to follow them. Turning the car 
+          around to videotape it, the craft swooped down in front of them. As they began to 
+          drive off, a humanoid appeared by their car. Later, they realized that they had an 
+          hour of missing time.</p>
+
+          <p><b>THE ALIEN IN MY CLOSET</b>. On the <b>night of May 1, 2016</b>, a man from South 
+          Dakota was awakened in his bedroom by a strange sound. Looking at his closet, he saw a 
+          three-fingered gray alien peering out at him. The man found himself paralyzed and in 
+          direct telepathic rapport with the alien. He finally managed to break free from the 
+          paralysis and the alien promptly disappeared back into the closet and was gone.</p>
+
+          <p><b>THERE WAS SOMETHING INSIDE IT</b>. On the <b>night of July 17, 2018</b>, a couple 
+          drove up to their home in southern Illinois and saw a brilliant orange object in the 
+          sky. It released a smaller light which dropped into the forest behind their home. 
+          Moments later, they were confronted by a giant cigar-shaped craft and through the 
+          portholes of the craft, they saw humanoids looking down at them.</p>
+
+          <p>Ten humanoid cases, each adding another piece of the puzzle to solving the UFO mystery. 
+          While there are still many questions surrounding this subject, the huge number of cases 
+          points to the idea that we are being visited by what appears to be extraterrestrials 
+          from another planet.</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+        </article>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #299 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/hlGkONvywBo" 
+          title="299. UFOs In Your Hometown: Episode Fourteen."
+          aria-label="299. UFOs In Your Hometown: Episode Fourteen"
+          target="_blank" rel="noopener noreferrer">EPISODE #299.<br>
+          UFOS IN YOUR<br>
+          HOMETOWN:<br>
+          EPISODE FOURTEEN</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>Dec 12, 2025 (1:27:47)</h3>
+
+          <p class="tallFirstLetter">Welcome to "UFOs in Your Hometown: Episode Fourteen," the 
+          ongoing UFO investigative series proving that UFOs are being seen everywhere on this 
+          planet. This series was born from a challenge: name any town, city or location on this 
+          planet, and I will find a UFO encounter there. You (the viewers) have provided almost 
+          1000 suggestions. So far we have explored almost 200 locations, and ALL of them have a 
+          history of UFO encounters. These include not just sightings, but landings, humanoids, 
+          onboard encounters and more.</p>
+
+          <p>In this latest installment, we explore ten new locations from across the planet, 
+          each with a long, rich history of UFO encounters, including:</p>
+    
+          <ol>
+            <li>Debighshire/Flintshire, Wales.</li>
+            <li>Baxter Springs, Kansas.</li>
+            <li>Kerrville, Texas.</li>
+            <li>DeRidder, Louisiana.</li>
+            <li>Manitowoc, Wisconsin.</li>
+            <li>Muscatine, Iowa.</li>
+            <li>Methuen, Massachusetts.</li>
+            <li>Tupelo, Mississippi.</li>
+            <li>Wallingford, Connecticut.</li>
+            <li>Waukegan, Illinois.</li>
+          </ol>
+
+          <p>The cases presented here include almost the entire range of UFO encounters. Many are 
+          supported by firsthand multiple eyewitness testimony and a wide variety of evidence such 
+          as landing traces, physiological effects, electromagnetic disturbances, animal reactions 
+          and more.</p>
+
+          <p>If UFOs are truly being seen everywhere (and this is what the evidence is showing us,) 
+          then the implications of this are profound. First it shows that UFO encounters are far 
+          more common than previously believed. According to some estimates there are about 50,000 
+          major cities in the world. If you add in small towns, the number jumps into the millions. 
+          It doesn't take a mathematician to calculate that there must be several million recorded 
+          UFO cases.</p>
+
+          <p>Another important takeaway is that the UFO occupants appear to be conducting a planetwide 
+          publicity campaign, announcing their presence to all of humanity. The conclusion is almost 
+          inescapable: UFOs want to be seen.</p>
+
+          <p>Perhaps the most important revelation from this hometown series is that UFOs are real. 
+          There are far too many cases to explain away as hoaxes, hallucinations, misperceptions or 
+          mental illness.</p>
+
+          <p>While there is a demonstrable worldwide coverup of UFO information by our own 
+          governments, ETs have done their part to disclose their presence and counteract the 
+          UFO coverup. The rest is up to us!</p>
+
+          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
+        </article>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #298 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 class="chapter-title">
   <a href="https://youtu.be/RVExbP9w6Lc" 
@@ -10718,4 +12318,5 @@ mines are physically effected.</p>
 <h7>Create Date: 8/18/2025 9+pm<br>
 Last Modified: 8/20/2025 9+pm<br>
 Last Modified: 8/21/2025 8+pm<br>
-Last Modified: 9/27/2025 9+pm</h7>
+Last Modified: 9/27/2025 9+pm<br>
+Last Modified: 4/11/2026 7+pm</h7>
