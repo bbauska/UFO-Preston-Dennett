@@ -4,13 +4,12 @@ from 1930's worldwide.</h2>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #316 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/OnyAM6cRBc8" 
-          title="316. ."
-          aria-label="316. "
+          title="316. UFOs in Your Hometown: Episode Seventeen."
+          aria-label="316. UFOs in Your Hometown: Episode Seventeen"
           target="_blank" rel="noopener noreferrer">EPISODE #316.<br>
           UFOS IN YOUR<br>
           HOMETOWN:<br>
           EPISODE SEVENTEEN</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Apr 10, 2026 (1:14:53)</h3>
           <p class="tallFirstLetter">Welcome to the latest installment of the UFO investigative 
@@ -87,7 +86,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
   	    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #315 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/1mBOzncp4so" 
@@ -101,7 +99,6 @@ from 1930's worldwide.</h2>
 		  WEIRD<br>
           HUMANOID<br>
           ENCOUNTERS)</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Apr 3, 2026 (1:03:30)</h3>
           <p class="tallFirstLetter">Humanoid encounters are a truly fascinating and important aspect 
@@ -158,25 +155,26 @@ from 1930's worldwide.</h2>
 		  transparent dome on top. And inside it, the father saw the head and shoulders of a small humanoid. He 
 		  quickly drove away. Later they learned there were other sightings in the are.</p>
 
-          <p><b>THE WEIRD HUMANOID AT THE RANCH</b>. On <b>September 20, 1997</b>, the Rodrigues family were puzzled 
-		  to find that 17 chickens were missing from their ranch in Mateus Leme, Brazil. The next night, the father, 
-		  Jose, saw a short humanoid figure by the henhouse. More chickens were missing. The next day, he came face-to-
-		  face with a strange humanoid. He tried to shoot at it, and the humanoid fled, never to return.</p>
+          <p><b>THE WEIRD HUMANOID AT THE RANCH</b>. On <b>September 20, 1997</b>, the Rodrigues family 
+		  were puzzled to find that 17 chickens were missing from their ranch in Mateus Leme, Brazil. 
+		  The next night, the father, Jose, saw a short humanoid figure by the henhouse. More chickens 
+		  were missing. The next day, he came face-to-face with a strange humanoid. He tried to shoot 
+		  at it, and the humanoid fled, never to return.</p>
 
-          <p><b>I COULD ONLY MOVE MY EYES</b>. One <b>summer day in 1992</b>, an 11-year-old boy watched a movie about 
-		  gray aliens. That night he woke up to see three gray aliens by his bed. He was completely paralyzed and 
-		  could only watch. He was amazed to see that they looked different from the grays portrayed in the movie. 
-		  Waking up the next morning, he saw a faint scar on his leg. The next night, he saw a UFO.</p>
+          <p><b>I COULD ONLY MOVE MY EYES</b>. One <b>summer day in 1992</b>, an 11-year-old boy watched 
+		  a movie about gray aliens. That night he woke up to see three gray aliens by his bed. He was 
+		  completely paralyzed and could only watch. He was amazed to see that they looked different 
+		  from the grays portrayed in the movie. Waking up the next morning, he saw a faint scar on 
+		  his leg. The next night, he saw a UFO.</p>
 
-          <p>These ten cases all involve firsthand eyewitness testimonies of strange humanoids, which are supported 
-		  by various forms of evidence such as landing traces, physiological effects, animal reactions, electromagnetic 
-		  disturbances and even photographs. So many cases—too many to explain away. It is time to take these accounts 
-		  seriously.</p>
+          <p>These ten cases all involve firsthand eyewitness testimonies of strange humanoids, which 
+		  are supported by various forms of evidence such as landing traces, physiological effects, 
+		  animal reactions, electromagnetic disturbances and even photographs. So many cases—too many 
+		  to explain away. It is time to take these accounts seriously.</p>
 		  
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
 		  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #314 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/N3W83uyKBhE" 
@@ -190,7 +188,6 @@ from 1930's worldwide.</h2>
           TEN EXTREMELY<br>
           BIZARRE CLOSE<br>
           ENCOUNTERS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Mar 27, 2026 (1:10:36)</h3>
           <p class="tallFirstLetter">Close encounters of the second kind are cases in which UFOs 
@@ -268,7 +265,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #313 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/ebkNCUyEhRk" 
@@ -278,7 +274,6 @@ from 1930's worldwide.</h2>
           WHEN UFOS CRASH!<br>
           SEVEN SHOCKING<br>
           CASES</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Mar 20, 2026 (1:14:40)</h3>
           <p class="tallFirstLetter">The field of ufology is changing fast. A subject that used to 
@@ -352,7 +347,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #312 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/KN6AndLJDpI" 
@@ -368,7 +362,6 @@ from 1930's worldwide.</h2>
           ENCOUNTERS<br>
           WITH<br>
           EXTRATERRESTRIALS)</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Mar 13, 2026 (1:02:34)</h3>
           <p class="tallFirstLetter">Firsthand accounts of humanoids take us deep into the very heart 
@@ -443,7 +436,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #311 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/Y_7YEJEfR-A" 
@@ -455,7 +447,6 @@ from 1930's worldwide.</h2>
           TEN SHOCKING<br>
           ONBOARD UFO<br>
           ENCOUNTERS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Mar 06, 2026 (1:02:30)</h3>
           <p class="tallFirstLetter">Being taken onboard a UFO! This is the ultimate UFO encounter. 
@@ -535,7 +526,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article> 
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #310 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/j5SP-MEoQA0?list=TLPQMDcwMzIwMjaAXjPVwkBEww" 
@@ -545,7 +535,6 @@ from 1930's worldwide.</h2>
           UFOS IN YOUR<br>
           HOMETOWN:<br>
           EPISODE SIXTEEN</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Feb 27, 2026 (1:21:49)</h3>
           
@@ -623,7 +612,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-          </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #309 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/ooDZSXSO6LE" 
@@ -635,7 +623,6 @@ from 1930's worldwide.</h2>
           TWELVE REALLY<br>
           WEIRD HUMANOID<br>
           ENCOUNTERS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Feb 20, 2026 (1:07:20)</h3>
           <p class="tallFirstLetter">As all humanity accepts the reality of the extraterrestrial 
@@ -714,7 +701,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-          </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #308 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/iiE8e0lmlOc" 
@@ -726,7 +712,6 @@ from 1930's worldwide.</h2>
           UFO ENCOUNTER<br>
           OF MICHAEL<br>
           AND JANET</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Feb 13, 2026 (0:51:53)</h3>
 
@@ -794,7 +779,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-          </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #307 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/90nsL5nQLKI" 
@@ -806,7 +790,6 @@ from 1930's worldwide.</h2>
           INVASION OF THE<br>
           HAIRY<br>
           HUMANOIDS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Feb 6, 2026 (1:10:20)</h3>
 
@@ -885,7 +868,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #306 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/FMWAmgImnJA" 
@@ -897,7 +879,6 @@ from 1930's worldwide.</h2>
           WEIRD<br>
           HUMANOID<br>
           ENCOUNTERS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Jan 30, 2026 (0:59:27)</h3>
 
@@ -977,7 +958,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #305 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/hkTP0X8nQUk" 
@@ -1067,7 +1047,6 @@ from 1930's worldwide.</h2>
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #304 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/vTg3CkurBg8" 
@@ -1081,7 +1060,6 @@ from 1930's worldwide.</h2>
           TEN ASTROUNDING<br>
           HUMANOID<br>
           ENCOUNTERS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Jan 16, 2026 (1:03:09)</h3>
           
@@ -1162,8 +1140,6 @@ from 1930's worldwide.</h2>
 
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
-
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #303 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/kHNprgNPB-Y" 
@@ -1175,7 +1151,6 @@ from 1930's worldwide.</h2>
           ENCOUNTERS OF<br>
           LEO AND MIKE<br>
           DWORSHAK</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Jan 9, 2026 (0:54:48)</h3>
 
@@ -1249,8 +1224,6 @@ from 1930's worldwide.</h2>
 
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
-
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #302 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/gUdZ0Hm49BM" 
@@ -1266,7 +1239,6 @@ from 1930's worldwide.</h2>
           &amp; REVERSE<br>
           ENGINEERING ET<br>
           CRAFT</a></h2>
-        <article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h3>Jan 2, 2026 (1:07:45)</h3>
 
@@ -1348,8 +1320,6 @@ from 1930's worldwide.</h2>
 
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
-
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #301 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/7LYoKQgOE4g" 
@@ -1361,7 +1331,6 @@ from 1930's worldwide.</h2>
           SHOCKING<br>
           ONBOARD UFO<br>
           ENCOUNTERS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Dec 26, 2025 (0:46:42)</h3>
 
@@ -1438,8 +1407,6 @@ from 1930's worldwide.</h2>
         
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
-
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #300 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/_roY-ZTha9M" 
@@ -1455,7 +1422,6 @@ from 1930's worldwide.</h2>
           ENCOUNTERS<br>
           WITH HUMANOID<br>
           EXTRATERRESTRIALS</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Dec 19, 2025 (1:04:08)</h3>
 
@@ -1536,7 +1502,6 @@ from 1930's worldwide.</h2>
 
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
-        </article>
         <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #299 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/hlGkONvywBo" 
@@ -1546,7 +1511,6 @@ from 1930's worldwide.</h2>
           UFOS IN YOUR<br>
           HOMETOWN:<br>
           EPISODE FOURTEEN</a></h2>
-        <article>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>Dec 12, 2025 (1:27:47)</h3>
 
@@ -1600,7 +1564,6 @@ from 1930's worldwide.</h2>
 
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
-        </article>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #298 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 class="chapter-title">
   <a href="https://youtu.be/RVExbP9w6Lc" 
