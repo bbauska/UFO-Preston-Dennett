@@ -11,7 +11,7 @@ from 1930's worldwide.</h2>
   HOMETOWN:<br>
   EPISODE SEVENTEEN</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Apr 10, 2026 (1:14:53)</h3>
+  <h5>Apr 10, 2026 (1:14:53)</h5>
   <p class="tallFirstLetter">Welcome to the latest installment of the UFO investigative 
   series, “UFOs in Your Hometown.” This series has its origin in challenge: name any town 
   or city and I will find a UFO encounter there. I am now working my way down a list of more 
@@ -100,7 +100,7 @@ from 1930's worldwide.</h2>
   HUMANOID<br>
   ENCOUNTERS)</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Apr 3, 2026 (1:03:30)</h3>
+  <h5>Apr 3, 2026 (1:03:30)</h5>
   <p class="tallFirstLetter">Humanoid encounters are a truly fascinating and important aspect 
   of Ufology. In these cases, people meet the UFO occupants face-to-face. These cases have 
   much to teach us about who these beings are. The diversity of cases is mindboggling. While 
@@ -189,7 +189,7 @@ from 1930's worldwide.</h2>
   BIZARRE CLOSE<br>
   ENCOUNTERS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Mar 27, 2026 (1:10:36)</h3>
+  <h5>Mar 27, 2026 (1:10:36)</h5>
   <p class="tallFirstLetter">Close encounters of the second kind are cases in which UFOs 
   affect the environment or the witness in some way. The variety of effects are mindboggling, 
   including everything from strange landing traces to physiological symptoms and more. This 
@@ -275,7 +275,7 @@ from 1930's worldwide.</h2>
   SEVEN SHOCKING<br>
   CASES</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Mar 20, 2026 (1:14:40)</h3>
+  <h5>Mar 20, 2026 (1:14:40)</h5>
   <p class="tallFirstLetter">The field of ufology is changing fast. A subject that used to 
   be regarded with derision, skepticism and ridicule is now gaining the legitimacy and 
   attention it has long deserved. Truth is coming out as governments across the world are 
@@ -362,7 +362,7 @@ from 1930's worldwide.</h2>
   WITH<br>
   EXTRATERRESTRIALS)</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Mar 13, 2026 (1:02:34)</h3>
+  <h5>Mar 13, 2026 (1:02:34)</h5>
   <p class="tallFirstLetter">Firsthand accounts of humanoids take us deep into the very heart 
   of the UFO phenomenon. This video presents cases from across the world, each with striking 
   commonalities which argue strongly for their veracity. Each also contains unique details of 
@@ -447,7 +447,7 @@ from 1930's worldwide.</h2>
   ONBOARD UFO<br>
   ENCOUNTERS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Mar 06, 2026 (1:02:30)</h3>
+  <h5>Mar 06, 2026 (1:02:30)</h5>
   <p class="tallFirstLetter">Being taken onboard a UFO! This is the ultimate UFO encounter. 
   These cases dive into the very heart of the UFO phenomenon. They have the greatest potential 
   to answer the many questions surrounding this subject, such as who are these visitors to our 
@@ -535,7 +535,7 @@ from 1930's worldwide.</h2>
   HOMETOWN:<br>
   EPISODE SIXTEEN</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Feb 27, 2026 (1:21:49)</h3>
+  <h5>Feb 27, 2026 (1:21:49)</h5>
   
   <p class="tallFirstLetter">I am delighted to present to you the latest installment, “UFOs 
   in Your Hometown Episode Sixteen.” This ongoing UFO investigative series explores the idea 
@@ -623,7 +623,7 @@ from 1930's worldwide.</h2>
   WEIRD HUMANOID<br>
   ENCOUNTERS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Feb 20, 2026 (1:07:20)</h3>
+  <h5>Feb 20, 2026 (1:07:20)</h5>
   <p class="tallFirstLetter">As all humanity accepts the reality of the extraterrestrial 
   presence on our planet, more people are stepping forward to share their firsthand encounters 
   with humanoids. There are more cases than you might think. This video presents twelve 
@@ -712,7 +712,7 @@ from 1930's worldwide.</h2>
   OF MICHAEL<br>
   AND JANET</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Feb 13, 2026 (0:51:53)</h3>
+  <h5>Feb 13, 2026 (0:51:53)</h5>
 
   <p class="tallFirstLetter">Just after sunset on <b>August 17, 1968</b>, sixteen-year-old Michael 
   Lapp and nineteen-year-old Janet Cornell (pseudonyms) sat on the dock at the Buff Ledge 
@@ -790,7 +790,7 @@ from 1930's worldwide.</h2>
   HAIRY<br>
   HUMANOIDS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Feb 6, 2026 (1:10:20)</h3>
+  <h5>Feb 6, 2026 (1:10:20)</h5>
 
   <p class="tallFirstLetter">UFO waves occur regularly across the planet. A UFO wave is a 
   short period of intense UFO activity in a sharply defined area. One of the most intense 
@@ -879,7 +879,7 @@ from 1930's worldwide.</h2>
   HUMANOID<br>
   ENCOUNTERS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Jan 30, 2026 (0:59:27)</h3>
+  <h5>Jan 30, 2026 (0:59:27)</h5>
 
   <p class="tallFirstLetter">One of the puzzling enigmas about humanoid encounters is the 
   fact that they are almost without exception, always humanoid. The humanoid form appears 
@@ -968,7 +968,7 @@ from 1930's worldwide.</h2>
   EPISODE FIFTEEN</a></h2>
   <article>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Jan 23, 2026 (1:15:20)</h3>
+  <h5>Jan 23, 2026 (1:15:20)</h5>
 
   <p class="tallFirstLetter">I am very happy to announce, “UFOs in Your Hometown: Episode 
   Fifteen.” This ongoing UFO investigative series explores various towns and locations 
@@ -1060,7 +1060,7 @@ from 1930's worldwide.</h2>
   HUMANOID<br>
   ENCOUNTERS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Jan 16, 2026 (1:03:09)</h3>
+  <h5>Jan 16, 2026 (1:03:09)</h5>
   
   <p class="tallFirstLetter">Humanoids! Reports come from all over the world and go back 
   centuries. There are tens of thousands of documented cases. Since most people never 
@@ -1151,7 +1151,7 @@ from 1930's worldwide.</h2>
   LEO AND MIKE<br>
   DWORSHAK</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Jan 9, 2026 (0:54:48)</h3>
+  <h5>Jan 9, 2026 (0:54:48)</h5>
 
   <p class="tallFirstLetter">One of the most astounding cases of UFO contact is that of Leo 
   and Mike Dworshak, two brothers from the small town of Killdeer, North Dakota. In the <b>summer 
@@ -1239,7 +1239,7 @@ from 1930's worldwide.</h2>
   ENGINEERING ET<br>
   CRAFT</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Jan 2, 2026 (1:07:45)</h3>
+  <h5>Jan 2, 2026 (1:07:45)</h5>
 
   <p class="tallFirstLetter">It is perhaps the single most controversial aspect of UFO 
   research. At first, researchers refused to even consider the possibility that such things 
@@ -1331,7 +1331,7 @@ from 1930's worldwide.</h2>
   ONBOARD UFO<br>
   ENCOUNTERS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Dec 26, 2025 (0:46:42)</h3>
+  <h5>Dec 26, 2025 (0:46:42)</h5>
 
   <p class="tallFirstLetter">Almost everything we know about extraterrestrials comes from 
   one source: the contactees, the people who have had face-to-face contact. The onboard UFO 
@@ -1422,7 +1422,7 @@ from 1930's worldwide.</h2>
   WITH HUMANOID<br>
   EXTRATERRESTRIALS</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Dec 19, 2025 (1:04:08)</h3>
+  <h5>Dec 19, 2025 (1:04:08)</h5>
 
   <p class="tallFirstLetter">Only a person who has had a face-to-face encounter with an 
   extraterrestrial humanoid can truly know what it’s like. Words such as “shocking,” 
@@ -1511,7 +1511,7 @@ from 1930's worldwide.</h2>
   HOMETOWN:<br>
   EPISODE FOURTEEN</a></h2>
   <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-  <h3>Dec 12, 2025 (1:27:47)</h3>
+  <h5>Dec 12, 2025 (1:27:47)</h5>
 
   <p class="tallFirstLetter">Welcome to "UFOs in Your Hometown: Episode Fourteen," the 
   ongoing UFO investigative series proving that UFOs are being seen everywhere on this 
