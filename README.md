@@ -3946,7 +3946,7 @@ face. There are so many cases with remarkable commonalities, coming from all ove
 world, that they are impossible to deny or explain away. They provide powerful testimony 
 that we are being visited by a wide variety of beings from beyond Earth.</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://youtu.be/6TBn8rcJ6jQ"target="_blank" rel="noopener noreferrer">EPISODE #2xx. 
+<h3><a href="https://youtu.be/6TBn8rcJ6jQ"target="_blank" rel="noopener noreferrer">EPISODE #268. 
 UFOS IN YOUR HOMETOWN: EPISODE TWELVE</a>.</h3>
 <h5>LINK: https://youtu.be/6TBn8rcJ6jQ</h5>
 <h5>June 27, 2025</h5>
@@ -4023,7 +4023,7 @@ are far more common than previously believed. It means that UFOs are apparently
 conducting a vigorous publicity campaign announcing their presence. And most important 
 of all, it means that we are not alone, and UFOs are real!</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://youtu.be/QcooG_RCb4M" target="_blank" rel="noopener noreferrer">EPISODE #2xx. 
+<h3><a href="https://youtu.be/QcooG_RCb4M" target="_blank" rel="noopener noreferrer">EPISODE #267. 
 UFOS IN YOUR HOMETOWN: EPISODE ELEVEN</a>.</h3>
 <h5>LINK: https://youtu.be/QcooG_RCb4M</h5>
 <h5>May 23, 2025</h5>
@@ -4093,172 +4093,6 @@ were investigated by the Royal Air Force.</p>
 location on this planet has truly been visited by UFOs, the implications of this are 
 profound. UFOs appear to be putting on a publicity campaign announcing their presence. 
 The ETs have done their part to disclose. The rest is up to us.</p>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #269 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="">EPISODE #269</a>.</h3>
-
-<h5>LINK:</h5>
-
-<h5>May 16, 2025</h5>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://youtu.be/g6as_XUXO-g"target="_blank" rel="noopener noreferrer">EPISODE #268. 
-FIVE INCREDIBLE ONBOARD UFO ENCOUNTERS</a>.</h3>
-<h5>LINK: https://youtu.be/g6as_XUXO-g</h5> <h5>May 9, 2025</h5>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h6>26,354 May 9, 2025</h6>
-<p>Being taken onboard a UFO! It is the ultimate type of UFO encounter, the most extensive, 
-and the most controversial. There are thousands of cases on record. These cases have the 
-greatest potential to answer the many questions surrounding the extraterrestrial presence 
-on our planet, such as who are these strange visitors, where do they come from and why 
-are they here? This video presents five little known cases coming from all over the world. 
-In each of these cases, the witnesses held long conversations with the extraterrestrials. 
-Each of these cases was investigated by researchers. The five cases here add to the 
-growing database of close encounters of the fourth kind, making it increasingly undeniable 
-that we are being visited by extraterrestrials.</p>
-
-<p><span class="bigBoy">TIME DOESN’T EXIST</span>. One night in April 1970, lawyer, Raymond Shearer, (pseudonym) was 
-driving outside Madison, Wisconsin and saw a light over his car. He felt compelled to 
-turn off on a remote road and came upon an ET craft. Suddenly, it was morning, and he 
-was arriving home. Beset with anxiety, he visited a therapist. Making no progress, the 
-therapist tried hypnosis, and recalled that he was taken onboard a craft by human-
-looking ETs who examined him and said that humans do not understand the nature of time, 
-how they fly their craft, that humans are too warlike for open contact, and that the 
-ETs have lost some of their people to conflicts with humans. They talked about the 
-power of water and many other topics, including advising Raymond about his career.</p>
-
-<p><span class="bigBoy">WE ARE YOUR FRIENDS</span>. On February 28, 1974, Dirant Mello 
-Ferraz (age 18) was in his home in Rio de Janeiro, Brazil when he was pulled into a craft. 
-Onboard, he met a twin of himself who departed the craft and took Dirant’s place for a 
-full 24-hours, learning all he could about life on Earth. Meanwhile Dirant was kept 
-onboard. He asked the ETs many questions, which they answered, about why they chose him, 
-what their mission on Earth was, would they invade our planet, did they believe in God, 
-and much more. They asked him to tell the people of Earth that they are friendly and that 
-it is their mission to help humanity. After 24 hours, Dirant was returned to his home. 
-Dirant’s case was thoroughly researched, but afterward, he just wanted to forget about 
-the encounter and live a normal life.</p>
-
-<p><span class="bigBoy">THE PEOPLE OF EARTH AREN’T READY</span>. On December 25, 1976, an anonymous teacher, “Francisco,” 
-was hunting outside of Merida, Spain when he became tired and fell asleep. Waking up, it 
-was night, and he realized a weird tentacle-like device was pulling on his arm. To his 
-shock, it was attached to a strange craft a short distance away. He fainted and when 
-he awoke, he thought he was in a hospital. But when big-eyed, scaly-skinned creatures 
-entered, he realized he was inside a craft. After examining him, they gave him a tour 
-of the craft, showed him an alien arboretum, and fed him strange alien foods. They 
-said they were on a benevolent scientific expedition to study Earth, that their 
-culture is far older than ours, that humans are not ready for contact, and that it 
-was his duty to tell the world about them.</p>
-
-<p><span class="bigBoy">THE MOST IMPORTANT ATTRIBUTE OF MATTER</span>. At 9pm on September 20, 1979, two men in Sztum, 
-Poland were shocked to see a UFO hover overhead. Suddenly they found themselves flying 
-upward into the craft. Inside, each held telepathic conversations with unseen entities 
-who talked on various topics such as mathematics, physics, the nature of matter and more. 
-Suddenly they were deposited back onto the ground and watched the craft dart away. Both 
-men had severe headaches. They tried to share their experience with friends, who 
-ridiculed them. Later, their case was extensively studied, and it was learned that one 
-year earlier, another truly remarkable encounter had occurred in the same area.</p>
-
-<p><span class="bigBoy">WE WON’T DO YOU ANY HARM</span>. On the night of January 12, 2008, 
-the Voronezhsky family were puzzled by the appearance of strange lights above their home 
-in Dubno, Ukraine. Going to bed, they were awakened in the middle of the night by a light 
-illuminating their home. Rushing outside, they saw a giant craft overhead. Suddenly the 
-parents, Vladimir and Olga, were pulled up into the craft. Vladimir was unable to move as 
-his wife was examined. The gray-type ETs were very polite as they told the couple about 
-ET society, and their interest in human emotions. They said that they were able to travel 
-great distances, turn their ships invisible and much more. They gave the couple a tour 
-through space and then returned them home. Vladimir discovered he had greater strength 
-and endurance, and Olga was healed of colitis.</p>
-
-<p>Five onboard experiences, each with amazing similarities and unique details, each 
-providing further evidence of extraterrestrial intervention on planet Earth. It is 
-unknown exactly how many people have had an experience like this, but some researchers 
-believe it may number in the millions.</p>
-​<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://youtu.be/Px6FhCzaAx8" target="_blank" rel="noopener noreferrer">EPISODE #267. 
-NOT HUMAN: TWELVE VERY WEIRD HUMANOID ENCOUNTERS</a>.</h3>
-<h5>LINK: https://youtu.be/Px6FhCzaAx8</h5> <h5>May 2, 2025</h5>
-<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h6>25,858 views  May 2, 2025</h6>
-One of the interesting things about encounters with strange beings is that they are 
-humanoid in form, bipedal beings that look much like us, but are clearly not human. The 
-humanoid form seems to be the universal template. This is what the first-hand accounts 
-are showing us. There are thousands of cases, going back more than 100 years, coming 
-from all over the world. Midget-like ETs, tall beings, grays, robotic creatures, mantids, 
-human-looking and more. This video presents 12 cases, each showing the variety and the 
-unique high-strangeness aspects of face-to-face encounters with humanoids.
-
-<span class="bigBoy">WE COME FROM A DIFFERENT PLANET</span>. One evening in the summer of 
-1957, a woman awoke in the bedroom of her home in Jutland, Denmark to see three 2-foot-tall 
-humanoids come through the closed window. Each looked identical, with beautiful human-
-looking faces and kind eyes. They said they came from a different planet and promptly left.
-
-<span class="bigBoy">ETS LAND AT FARMHOUSE</span>. One day in October 1957, a farmer and 
-his workers saw a flying saucer land on his farm in Campinas, Brazil. Three human-looking 
-figures exited and went to collect water from the river. They returned to their craft, 
-which took off. Many odd effects were found, landing traces, EM disturbances, metal 
-fragments, and more witnesses.
-
-<span class="bigBoy">EXTRATERRESTRIAL TOURISTS?</span> One night in October 1959, Mrs. 
-Moulet and her three children stepped out of their home in Aubagne, France to hang the 
-laundry. Suddenly an egg-shaped craft hovered overhead. Through a big porthole, they 
-saw 20 blond men in white shirts looking down smiling at them. Soon, the craft zoomed 
-off.
-
-<span class="bigBoy">THE LITTLE GREEN MAN OF LUUMAKI</span>. On August 19, 1965 and the 
-Kuningas family went berry-picking in the fields out of Hermunen in Luumaki, Finland. A 
-3-foot-tall humanoid appeared. It had red skin, a human-looking face, and wore a tight 
-green jumpsuit. The father and son were unable to move as the being approached, then 
-ran off into the woods.
-
-<span class="bigBoy">IF I HADN’T SEEN IT MYSELF, I COULD NOT HAVE BEEN CONVINCED</span>. 
-One night in February 1968, a couple looked out of their home in Greensburg, Pennsylvania 
-to see a saucer-shaped craft over their backyard pond. To their shock, they saw a humanoid 
-figure standing on a railing outside the craft looking down at them. They called their 
-relatives who drove over and saw the craft.
-
-<span class="bigBoy">SIX ALIENS ON BEENLEIGH ROAD</span>. At 2am on July 19, 1972, a man 
-drove to work along the Beenleigh Road, in Kuraby, Queensland, Australia. Suddenly he saw 
-six humanoid figures in cream-colored jumpsuits and diamond-like faceplates standing next 
-to the road. Nearby, a large craft hovered. He drove off in fear and vowed to never drive 
-that road again.
-
-<span class="bigBoy">THE MAN WAVED BACK</span>. Driving along a remote road in Covington, 
-Michigan, one night in September 1973, a man was shocked to see a UFO hover over the car 
-ahead of him. The car stopped, and the lady knelt down to pray. The man saw a blond man 
-looking at him through a porthole. He waved, and the man waved back, and the craft zipped 
-away.
-
-<span class="bigBoy">A PRESSURE INSIDE HIS HEAD</span>. At 10pm on January 6, 1978, two 
-men were walked along a street in Santo Antonio da Caparico, Portugal when a light zoomed 
-overheard. They ran to get a closer look and saw by a 7-foot-tall being in a glowing white 
-jumpsuit. They fled in panic. Later, landing traces were found and one of the men suffered 
-weird effects.
-
-<span class="bigBoy">THE CREATURES IN THE WOODS</span>. On April 27, 1986, a karate teacher 
-and his student went jogging in the woods by Gravina di Puglia, Italy. Seeing two 7-foot-tall 
-figures in white uniforms, they ran and called the police. They soon learned that three hunters 
-also saw the beings. The police found odd marks on the ground where the beings had stood.
-
-<span class="bigBoy">“WHY ARE YOU TRYING TO HURT ME?”</span> For days, “Lee” of Gary, Indiana 
-had a feeling of being watched. Then on the night of June 15, 1986, he awoke to see a gray 
-alien standing next to his bed. Afraid, he threw a pillow at it. The gray looked at him and 
-asked, “Why are you trying to hurt me?” Lee felt great love coming from the being, who promptly 
-vanished.
-
-<span class="bigBoy">IT’S NOT HUMAN</span>. One night in October 2010, two men were walking 
-along the foothills of the mountains in Tandil, Argentina when they saw a strange light. 
-Getting closer, they saw it was a glowing humanoid, wearing a clear helmet. When it started 
-to levitate, they turned and ran. To their shock, it began to follow them.
-
-<span class="bigBoy">THE ALIEN AND THE SQUIRRELS</span>. One morning in December 2012, a 
-couple looked outside their home in Villaviciosa de Odon, Spain and were shocked to see 
-200 squirrels on their porch. Then they saw a 9-foot-tall humanoid in a red jumpsuit 
-floating in their backyard. After 15 minutes, it departed, and the squirrels dispersed.
-
-Twelve cases, each showing the familiar humanoid form, yet each with  unique details. 
-These cases make it clear that something profound is happening here, and that we still 
-have much to understand about these visitors to our planet.
-
-PRESTON DENNETT WEBSITE: https://prestondennett.weebly.com/
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h3><a href="https://youtu.be/kgCSWrY9DrA" target="_blank" rel="noopener noreferrer">EPISODE #266. 
 UFOS IN YOUR HOMETOWN: EPISODE TEN</a>.</h5>
@@ -4332,7 +4166,7 @@ important as it reveals that the ETs appear to have an agenda to announce their 
 to all humanity. The ETs have done their part to disclose their presence. The rest is up 
 to us!</p>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-<h3><a href="https://youtu.be/fMphYLQySzI" target="_blank" rel="noopener noreferrer">EPISODE: #XXX: 
+<h3><a href="https://youtu.be/fMphYLQySzI" target="_blank" rel="noopener noreferrer">EPISODE: #265: 
 THE SPACESHIP HOUSE</a>.</h3>
 <h5>LINK: https://youtu.be/fMphYLQySzI</h5>
 <h5>April 18, 2025</h5>
