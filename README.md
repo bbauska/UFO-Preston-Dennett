@@ -102,41 +102,41 @@ from 1930's worldwide.</h2>
     <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
     <h3>Apr 3, 2026 (1:03:30)</h3>
     <p class="tallFirstLetter">Humanoid encounters are a truly fascinating and important aspect 
-          of Ufology. In these cases, people meet the UFO occupants face-to-face. These cases have 
-          much to teach us about who these beings are. The diversity of cases is mindboggling. While 
-          each case is unique, they contain striking similarities that argue for the veracity of these 
-          incidents. This video presents ten cases from across the planet, each illustrating the incredibly 
-          variety of these visitors to our planet.</p>
+    of Ufology. In these cases, people meet the UFO occupants face-to-face. These cases have 
+    much to teach us about who these beings are. The diversity of cases is mindboggling. While 
+    each case is unique, they contain striking similarities that argue for the veracity of these 
+    incidents. This video presents ten cases from across the planet, each illustrating the incredibly 
+    variety of these visitors to our planet.</p>
 
-          <p><b>AN EXTRATERRESTRIAL HITCHHIKER</b>. One <b>day in August 1962</b>, two friends were driving 
-          between Puolanka and Oulu, Finland when a very short man flagged down their car and asked for a 
-          ride. One of the friends noticed several strange things about the man. He was not only short, his 
-          head was overly large, his eyes were not normal, and he had six fingers on each hand. There were 
-          other strange details. After dropping the little man off, the two men saw a UFO, which convinced 
-          them that the little man was an extraterrestrial.</p>
+    <p><b>AN EXTRATERRESTRIAL HITCHHIKER</b>. One <b>day in August 1962</b>, two friends were driving 
+    between Puolanka and Oulu, Finland when a very short man flagged down their car and asked for a 
+    ride. One of the friends noticed several strange things about the man. He was not only short, his 
+    head was overly large, his eyes were not normal, and he had six fingers on each hand. There were 
+    other strange details. After dropping the little man off, the two men saw a UFO, which convinced 
+    them that the little man was an extraterrestrial.</p>
 
-          <p><b>THE ETS AT THE RESERVOIR</b>. One <b>night in October 1972</b>, a dating couple were at the 
-          Carlington Heights Reservoir in Ottawa, Canada when they saw a UFO approach. It hovered about 20 
-          feet above the ground. A door opened and they saw three humanoids looking down at them. After 
-          fifteen minutes, the lady became frightened, so they drove away.</p>
+    <p><b>THE ETS AT THE RESERVOIR</b>. One <b>night in October 1972</b>, a dating couple were at the 
+    Carlington Heights Reservoir in Ottawa, Canada when they saw a UFO approach. It hovered about 20 
+    feet above the ground. A door opened and they saw three humanoids looking down at them. After 
+    fifteen minutes, the lady became frightened, so they drove away.</p>
 
-          <p><b>STRANGE CREATURES</b>. On the <b>morning of October 7, 1972</b>, Mrs. H. was bicycling to 
-          her home in a rural area south of Ljubljana, Yugoslavia and saw three 3-foot-tall figures standing 
-          on a nearby hill. They were dressed in strange gowns and were also moving strangely. Mrs. H. was 
-          convinced that they were not human and fled the area. She later learned other witnesses had seen 
-          strange humanoids in the same place.</p>
+    <p><b>STRANGE CREATURES</b>. On the <b>morning of October 7, 1972</b>, Mrs. H. was bicycling to 
+    her home in a rural area south of Ljubljana, Yugoslavia and saw three 3-foot-tall figures standing 
+    on a nearby hill. They were dressed in strange gowns and were also moving strangely. Mrs. H. was 
+    convinced that they were not human and fled the area. She later learned other witnesses had seen 
+    strange humanoids in the same place.</p>
 
-          <p><b>THE THING AT THE WINDOW</b>. On the <b>night of April 24, 1977</b>, Billy and Pauline Coombs 
-          were in their home in Dyfed, Wales when a silver-suited humanoid looked in their window. Not long 
-          after this, their children saw the same figure and a landed UFO. Then Pauline and two of her 
-          children had a third encounter with the silver-suited figures. More events followed. In fact, a 
-          huge wave of activity occurred in the area.</p>
+    <p><b>THE THING AT THE WINDOW</b>. On the <b>night of April 24, 1977</b>, Billy and Pauline Coombs 
+    were in their home in Dyfed, Wales when a silver-suited humanoid looked in their window. Not long 
+    after this, their children saw the same figure and a landed UFO. Then Pauline and two of her 
+    children had a third encounter with the silver-suited figures. More events followed. In fact, a 
+    huge wave of activity occurred in the area.</p>
 
-          <p><b>I WILL REMEMBER THIS AS LONG AS LIVE</b>. On the <b>night of August 22, 1978</b>, a newly 
-          married couple were honeymooning on the island of Bermuda when they saw a strange craft. Later, as 
-          they walked on the beach, the craft hovered overhead and struck them with a beam of light. The 
-          wife ran, but the husband stayed and saw grays inside the craft. That night, the couple was 
-          visited by the grays in their hotel room.</p>
+    <p><b>I WILL REMEMBER THIS AS LONG AS LIVE</b>. On the <b>night of August 22, 1978</b>, a newly 
+    married couple were honeymooning on the island of Bermuda when they saw a strange craft. Later, as 
+    they walked on the beach, the craft hovered overhead and struck them with a beam of light. The 
+    wife ran, but the husband stayed and saw grays inside the craft. That night, the couple was 
+    visited by the grays in their hotel room.</p>
 
           <p><b>LIKE THOSE WHO GO TO THE MOON</b>. Around <b>sunset on January 13, 1979</b>, Vittorio Mancini 
           worked the fields of his farm in Viterbo, Italy. Suddenly a UFO dropped from the sky and landed in 
