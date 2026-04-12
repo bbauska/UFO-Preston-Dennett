@@ -1,181 +1,181 @@
 <h1>UFO Preston Dennett</h1>
 <h2>UFO incidences written about by Preston Dennett from 2017 to 2026. UFO info is dated 
 from 1930's worldwide.</h2>
-        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #316 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-        <h2 class="chapter-title">
-          <a href="https://youtu.be/OnyAM6cRBc8" 
-          title="316. UFOs in Your Hometown: Episode Seventeen."
-          aria-label="316. UFOs in Your Hometown: Episode Seventeen"
-          target="_blank" rel="noopener noreferrer">EPISODE #316.<br>
-          UFOS IN YOUR<br>
-          HOMETOWN:<br>
-          EPISODE SEVENTEEN</a></h2>
-          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-          <h3>Apr 10, 2026 (1:14:53)</h3>
-          <p class="tallFirstLetter">Welcome to the latest installment of the UFO investigative 
-		  series, “UFOs in Your Hometown.” This series has its origin in challenge: name any town 
-		  or city and I will find a UFO encounter there. I am now working my way down a list of more 
-		  than 1000 locations, submitted by viewers, and so far, every single place has a history 
-		  of UFO encounters. In this Episode Seventeen, we explore eight new locations from across 
-		  the world. Have UFOs been seen in your hometown? Submit the town or city and I will look 
-		  it up! But I can tell you already, the answer is almost certainly yes!</p>
+<!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #316 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+<h2 class="chapter-title">
+  <a href="https://youtu.be/OnyAM6cRBc8" 
+  title="316. UFOs in Your Hometown: Episode Seventeen."
+  aria-label="316. UFOs in Your Hometown: Episode Seventeen"
+  target="_blank" rel="noopener noreferrer">EPISODE #316.<br>
+  UFOS IN YOUR<br>
+  HOMETOWN:<br>
+  EPISODE SEVENTEEN</a></h2>
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <h3>Apr 10, 2026 (1:14:53)</h3>
+  <p class="tallFirstLetter">Welcome to the latest installment of the UFO investigative 
+  series, “UFOs in Your Hometown.” This series has its origin in challenge: name any town 
+  or city and I will find a UFO encounter there. I am now working my way down a list of more 
+  than 1000 locations, submitted by viewers, and so far, every single place has a history 
+  of UFO encounters. In this Episode Seventeen, we explore eight new locations from across 
+  the world. Have UFOs been seen in your hometown? Submit the town or city and I will look 
+  it up! But I can tell you already, the answer is almost certainly yes!</p>
 
-          <p><b>Barryton, Michigan</b> is a small town of about 500 people. Despite its small size, 
-		  it has several profound UFO encounters. In <b>1978</b>, a police officer had a close-up 
-		  sighting of a solid craft with portholes. A few months later, the local police station 
-		  received several calls about UFOs, and the sheriff himself became a witness. A few other 
-		  cases involve clearly anomalous lights. But another case from 2022 involves a very strangely 
-		  shaped UFO.</p>
+  <p><b>Barryton, Michigan</b> is a small town of about 500 people. Despite its small size, 
+  it has several profound UFO encounters. In <b>1978</b>, a police officer had a close-up 
+  sighting of a solid craft with portholes. A few months later, the local police station 
+  received several calls about UFOs, and the sheriff himself became a witness. A few other 
+  cases involve clearly anomalous lights. But another case from 2022 involves a very strangely 
+  shaped UFO.</p>
 
-          <p>The beautiful town of <b>Smedjebacken, Sweden</b> has about 5000 people and an incredible 
-		  history of encounters. In <b>1968</b>, a group of 15 boys (age 11-15) were hiking in the woods 
-		  when they were approached by two humanoids. Only a few of the boys remember the encounter, and 
-		  one became a major contactee. In <b>1973</b>, two witnesses saw three UFOs sitting on the ground 
-		  outside their home. A short distance away, there were other witnesses. In <b>1974 and 1976</b>, 
-		  there were two other incredible encounters.</p>
+  <p>The beautiful town of <b>Smedjebacken, Sweden</b> has about 5000 people and an incredible 
+  history of encounters. In <b>1968</b>, a group of 15 boys (age 11-15) were hiking in the woods 
+  when they were approached by two humanoids. Only a few of the boys remember the encounter, and 
+  one became a major contactee. In <b>1973</b>, two witnesses saw three UFOs sitting on the ground 
+  outside their home. A short distance away, there were other witnesses. In <b>1974 and 1976</b>, 
+  there were two other incredible encounters.</p>
  
-          <p>Due to its large number of encounters, the <b>London burrough of Wandsworth</b>, in the <b>UK</b>, 
-		  it has been given the nickname of <b>UFO City</b>. In <b>1986</b>, a young athlete reports that 
-		  a UFO hovered above him. He experienced a period of missing time and woke up on a bus. The UFO 
-		  was still following him. There were more sightings in <b>1987 and 1992</b>. In <b>2006</b>, 
-		  there was a mini wave of UFOs over the city, involving many witnesses. Even the MOD was unable 
-		  to explain it. There was another sighting in <b>2008</b> which also had multiple witnesses.</p>
+  <p>Due to its large number of encounters, the <b>London burrough of Wandsworth</b>, in the <b>UK</b>, 
+  it has been given the nickname of <b>UFO City</b>. In <b>1986</b>, a young athlete reports that 
+  a UFO hovered above him. He experienced a period of missing time and woke up on a bus. The UFO 
+  was still following him. There were more sightings in <b>1987 and 1992</b>. In <b>2006</b>, 
+  there was a mini wave of UFOs over the city, involving many witnesses. Even the MOD was unable 
+  to explain it. There was another sighting in <b>2008</b> which also had multiple witnesses.</p>
  
-          <p><b>Tuscaloosa, Alabama</b> has a population of 110,000 people and so many amazing encounters. 
-		  In <b>1950</b>, dozens of people saw a flaming cross arc across the sky. In <b>1950</b>, two Navy 
-		  pilots tracking a skyhook weather balloon were amazed to see a half-dozen UFOs also investigating 
-		  the balloon. In <b>1978</b>, the chief operator of the Holt Lock and Dam on the Black Warrior River 
-		  was one of many witnesses to a UFO which remained in view for several hours. In <b>1980</b>, a 
-		  college student was followed by a UFO to Tuscaloosa University. He was able to capture multiple 
-		  photographs of the strange lights before they disappeared. In <b>1989</b>, dozens of people 
-		  including police and security guards in <b>Tuscaloosa</b> and beyond reported strange lights 
-		  darting across the sky. In <b>1996 and 1999</b> there were sightings of solid metallic craft. 
-		  In <b>2019</b>, a young man was able to capture videotape of strange lights in the forest.</p>
+  <p><b>Tuscaloosa, Alabama</b> has a population of 110,000 people and so many amazing encounters. 
+  In <b>1950</b>, dozens of people saw a flaming cross arc across the sky. In <b>1950</b>, two Navy 
+  pilots tracking a skyhook weather balloon were amazed to see a half-dozen UFOs also investigating 
+  the balloon. In <b>1978</b>, the chief operator of the Holt Lock and Dam on the Black Warrior River 
+  was one of many witnesses to a UFO which remained in view for several hours. In <b>1980</b>, a 
+  college student was followed by a UFO to Tuscaloosa University. He was able to capture multiple 
+  photographs of the strange lights before they disappeared. In <b>1989</b>, dozens of people 
+  including police and security guards in <b>Tuscaloosa</b> and beyond reported strange lights 
+  darting across the sky. In <b>1996 and 1999</b> there were sightings of solid metallic craft. 
+  In <b>2019</b>, a young man was able to capture videotape of strange lights in the forest.</p>
  
-          <p><b>Buford, Georgia</b> has a population of 20,000 people. One incredible encounter occurred 
-		  in <b>1969</b> when a UFO zoomed mere feet above a car as it traveled down the highway. There 
-		  are several other cases of solid disc-shaped craft including in <b>2001, 2010 and 2012</b>. In 
-		  <b>2013</b> witnesses observed a glowing red object surrounded by black helicopters.</p>
+  <p><b>Buford, Georgia</b> has a population of 20,000 people. One incredible encounter occurred 
+  in <b>1969</b> when a UFO zoomed mere feet above a car as it traveled down the highway. There 
+  are several other cases of solid disc-shaped craft including in <b>2001, 2010 and 2012</b>. In 
+  <b>2013</b> witnesses observed a glowing red object surrounded by black helicopters.</p>
  
-          <p><b>Pottstown, Pennsylvania</b> was founded in <b>1753</b>. With 23,000 people, this town has 
-		  several incredible encounters. In <b>1952</b>, there were two cases investigated by Project 
-		  Blue Book. In <b>1971</b>, a woman had an alarming encounter with a UFO on a country road. A 
-		  close encounter of the 2nd kind occurred to a man in <b>2004</b>. Pottstown has a nuclear power 
-		  plant, and several sightings, including one in <b>2000</b>, another in <b>2011</b>, and another 
-		  in <b>2016</b> all occurred near the power plant.</p>
+  <p><b>Pottstown, Pennsylvania</b> was founded in <b>1753</b>. With 23,000 people, this town has 
+  several incredible encounters. In <b>1952</b>, there were two cases investigated by Project 
+  Blue Book. In <b>1971</b>, a woman had an alarming encounter with a UFO on a country road. A 
+  close encounter of the 2nd kind occurred to a man in <b>2004</b>. Pottstown has a nuclear power 
+  plant, and several sightings, including one in <b>2000</b>, another in <b>2011</b>, and another 
+  in <b>2016</b> all occurred near the power plant.</p>
+  
+  <p><b>Haddon Heights, New Jersey</b> is a very small town, but it does have some interesting 
+  UFO cases. In <b>1984</b>, two boys reported their sighting of a black pyramidal-shaped craft 
+  cruising down the street in full view. In <b>2002</b>, two UFO researchers sighted what they 
+  believe to be a solid anomalous object right off the 295 Interstate.</p>
+ 
+  <p><b>Twinsburg, Ohio</b> (population 20k) is most famous for hosting the annual festival of 
+  twins and multiple births. But it also has many amazing UFO encounters. In <b>1959</b>, a man 
+  had a sighting there that inspired him to become a prominent UFO researcher. In <b>1966</b>, a 
+  6-year-old boy had a missing time encounter and later remembered he was not only taken onboard 
+  a craft, but perhaps to another planet. A wave of sighting on <b>March 6, 1969</b> was widely 
+  viewed by residents and police officers, and two months later, resulted in an odd visit by what 
+  appears to be a gray-human hybrid at the local police station. 2009 and 2014 brought two more 
+  amazing encounters.</p>
 
-          <p><b>Haddon Heights, New Jersey</b> is a very small town, but it does have some interesting 
-		  UFO cases. In <b>1984</b>, two boys reported their sighting of a black pyramidal-shaped craft 
-		  cruising down the street in full view. In <b>2002</b>, two UFO researchers sighted what they 
-		  believe to be a solid anomalous object right off the 295 Interstate.</p>
- 
-          <p><b>Twinsburg, Ohio</b> (population 20k) is most famous for hosting the annual festival of 
-		  twins and multiple births. But it also has many amazing UFO encounters. In <b>1959</b>, a man 
-		  had a sighting there that inspired him to become a prominent UFO researcher. In <b>1966</b>, a 
-		  6-year-old boy had a missing time encounter and later remembered he was not only taken onboard 
-		  a craft, but perhaps to another planet. A wave of sighting on <b>March 6, 1969</b> was widely 
-		  viewed by residents and police officers, and two months later, resulted in an odd visit by what 
-		  appears to be a gray-human hybrid at the local police station. 2009 and 2014 brought two more 
-		  amazing encounters.</p>
+  <p>Eight locations across the planet, each showing a history of close encounters of the first, 
+  second, third and fourth kind, with many cases involving multiple witnesses and many forms of 
+  evidence. These cases show that UFOs are seen everywhere, and are far more common than most 
+  people think.</p>
+          
+  <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
+  title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-          <p>Eight locations across the planet, each showing a history of close encounters of the first, 
-		  second, third and fourth kind, with many cases involving multiple witnesses and many forms of 
-		  evidence. These cases show that UFOs are seen everywhere, and are far more common than most 
-		  people think.</p>
-		  
-          <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
-          title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
-
-  	    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #315 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-        <h2 class="chapter-title">
-          <a href="https://youtu.be/1mBOzncp4so" 
-          title="315. The Thing at the Window: (And Nine Other Very Weird Humanoid Encounters)."
-          aria-label="315. The Thing at the Window: (And Nine Other Very Weird Humanoid Encounters)"
-          target="_blank" rel="noopener noreferrer">EPISODE #315.<br>
-		  THE THING AT<br>
-          THE WINDOW:<br>
-          (AND NINE<br>
-          OTHER VERY<br>
-		  WEIRD<br>
-          HUMANOID<br>
-          ENCOUNTERS)</a></h2>
-          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
-          <h3>Apr 3, 2026 (1:03:30)</h3>
-          <p class="tallFirstLetter">Humanoid encounters are a truly fascinating and important aspect 
-		  of Ufology. In these cases, people meet the UFO occupants face-to-face. These cases have 
-		  much to teach us about who these beings are. The diversity of cases is mindboggling. While 
-		  each case is unique, they contain striking similarities that argue for the veracity of these 
-		  incidents. This video presents ten cases from across the planet, each illustrating the incredibly 
-		  variety of these visitors to our planet.</p>
+  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #315 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+  <h2 class="chapter-title">
+    <a href="https://youtu.be/1mBOzncp4so" 
+    title="315. The Thing at the Window: (And Nine Other Very Weird Humanoid Encounters)."
+    aria-label="315. The Thing at the Window: (And Nine Other Very Weird Humanoid Encounters)"
+    target="_blank" rel="noopener noreferrer">EPISODE #315.<br>
+    THE THING AT<br>
+    THE WINDOW:<br>
+    (AND NINE<br>
+    OTHER VERY<br>
+    WEIRD<br>
+    HUMANOID<br>
+    ENCOUNTERS)</a></h2>
+    <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+    <h3>Apr 3, 2026 (1:03:30)</h3>
+    <p class="tallFirstLetter">Humanoid encounters are a truly fascinating and important aspect 
+          of Ufology. In these cases, people meet the UFO occupants face-to-face. These cases have 
+          much to teach us about who these beings are. The diversity of cases is mindboggling. While 
+          each case is unique, they contain striking similarities that argue for the veracity of these 
+          incidents. This video presents ten cases from across the planet, each illustrating the incredibly 
+          variety of these visitors to our planet.</p>
 
           <p><b>AN EXTRATERRESTRIAL HITCHHIKER</b>. One <b>day in August 1962</b>, two friends were driving 
-		  between Puolanka and Oulu, Finland when a very short man flagged down their car and asked for a 
-		  ride. One of the friends noticed several strange things about the man. He was not only short, his 
-		  head was overly large, his eyes were not normal, and he had six fingers on each hand. There were 
-		  other strange details. After dropping the little man off, the two men saw a UFO, which convinced 
-		  them that the little man was an extraterrestrial.</p>
+          between Puolanka and Oulu, Finland when a very short man flagged down their car and asked for a 
+          ride. One of the friends noticed several strange things about the man. He was not only short, his 
+          head was overly large, his eyes were not normal, and he had six fingers on each hand. There were 
+          other strange details. After dropping the little man off, the two men saw a UFO, which convinced 
+          them that the little man was an extraterrestrial.</p>
 
           <p><b>THE ETS AT THE RESERVOIR</b>. One <b>night in October 1972</b>, a dating couple were at the 
-		  Carlington Heights Reservoir in Ottawa, Canada when they saw a UFO approach. It hovered about 20 
-		  feet above the ground. A door opened and they saw three humanoids looking down at them. After 
-		  fifteen minutes, the lady became frightened, so they drove away.</p>
+          Carlington Heights Reservoir in Ottawa, Canada when they saw a UFO approach. It hovered about 20 
+          feet above the ground. A door opened and they saw three humanoids looking down at them. After 
+          fifteen minutes, the lady became frightened, so they drove away.</p>
 
           <p><b>STRANGE CREATURES</b>. On the <b>morning of October 7, 1972</b>, Mrs. H. was bicycling to 
-		  her home in a rural area south of Ljubljana, Yugoslavia and saw three 3-foot-tall figures standing 
-		  on a nearby hill. They were dressed in strange gowns and were also moving strangely. Mrs. H. was 
-		  convinced that they were not human and fled the area. She later learned other witnesses had seen 
-		  strange humanoids in the same place.</p>
+          her home in a rural area south of Ljubljana, Yugoslavia and saw three 3-foot-tall figures standing 
+          on a nearby hill. They were dressed in strange gowns and were also moving strangely. Mrs. H. was 
+          convinced that they were not human and fled the area. She later learned other witnesses had seen 
+          strange humanoids in the same place.</p>
 
           <p><b>THE THING AT THE WINDOW</b>. On the <b>night of April 24, 1977</b>, Billy and Pauline Coombs 
-		  were in their home in Dyfed, Wales when a silver-suited humanoid looked in their window. Not long 
-		  after this, their children saw the same figure and a landed UFO. Then Pauline and two of her 
-		  children had a third encounter with the silver-suited figures. More events followed. In fact, a 
-		  huge wave of activity occurred in the area.</p>
+          were in their home in Dyfed, Wales when a silver-suited humanoid looked in their window. Not long 
+          after this, their children saw the same figure and a landed UFO. Then Pauline and two of her 
+          children had a third encounter with the silver-suited figures. More events followed. In fact, a 
+          huge wave of activity occurred in the area.</p>
 
           <p><b>I WILL REMEMBER THIS AS LONG AS LIVE</b>. On the <b>night of August 22, 1978</b>, a newly 
-		  married couple were honeymooning on the island of Bermuda when they saw a strange craft. Later, as 
-		  they walked on the beach, the craft hovered overhead and struck them with a beam of light. The 
-		  wife ran, but the husband stayed and saw grays inside the craft. That night, the couple was 
-		  visited by the grays in their hotel room.</p>
+          married couple were honeymooning on the island of Bermuda when they saw a strange craft. Later, as 
+          they walked on the beach, the craft hovered overhead and struck them with a beam of light. The 
+          wife ran, but the husband stayed and saw grays inside the craft. That night, the couple was 
+          visited by the grays in their hotel room.</p>
 
           <p><b>LIKE THOSE WHO GO TO THE MOON</b>. Around <b>sunset on January 13, 1979</b>, Vittorio Mancini 
-		  worked the fields of his farm in Viterbo, Italy. Suddenly a UFO dropped from the sky and landed in 
-		  his field. He saw a little man get out and collect samples. He fled the scene. When he returned with 
-		  others, the craft and the little man were gone. Unknown to him, other witnesses in the area saw a UFO 
-		  and captured photographs.</p>
+          worked the fields of his farm in Viterbo, Italy. Suddenly a UFO dropped from the sky and landed in 
+          his field. He saw a little man get out and collect samples. He fled the scene. When he returned with 
+          others, the craft and the little man were gone. Unknown to him, other witnesses in the area saw a UFO 
+          and captured photographs.</p>
 
           <p><b>TEN-YEAR-OLD GIRL MEETS ALIENS</b>. On <b>January 25, 1979</b>, 10-year-old Marta Isabel Carabajal 
-		  was playing in her grandparents’ home in El Dean, Argentina, when she saw a UFO land in the yard. Some 
-		  little men in jumpsuits emerged and floated around. One approached Marta and asked her to come closer. 
-		  When Marta refused, the little man struck her with a beam of light. The men returned to their craft 
-		  and flew away.</p>
+          was playing in her grandparents’ home in El Dean, Argentina, when she saw a UFO land in the yard. Some 
+          little men in jumpsuits emerged and floated around. One approached Marta and asked her to come closer. 
+          When Marta refused, the little man struck her with a beam of light. The men returned to their craft 
+          and flew away.</p>
 
           <p><b>DON’T LOOK BACK!</b> On the <b>night of September 11, 1980</b>, a family drove outside of Willington, 
-		  Connecticut when a huge flattish disc-shaped craft appeared and approached their car. There was a small 
-		  transparent dome on top. And inside it, the father saw the head and shoulders of a small humanoid. He 
-		  quickly drove away. Later they learned there were other sightings in the are.</p>
+          Connecticut when a huge flattish disc-shaped craft appeared and approached their car. There was a small 
+          transparent dome on top. And inside it, the father saw the head and shoulders of a small humanoid. He 
+          quickly drove away. Later they learned there were other sightings in the are.</p>
 
           <p><b>THE WEIRD HUMANOID AT THE RANCH</b>. On <b>September 20, 1997</b>, the Rodrigues family 
-		  were puzzled to find that 17 chickens were missing from their ranch in Mateus Leme, Brazil. 
-		  The next night, the father, Jose, saw a short humanoid figure by the henhouse. More chickens 
-		  were missing. The next day, he came face-to-face with a strange humanoid. He tried to shoot 
-		  at it, and the humanoid fled, never to return.</p>
+          were puzzled to find that 17 chickens were missing from their ranch in Mateus Leme, Brazil. 
+          The next night, the father, Jose, saw a short humanoid figure by the henhouse. More chickens 
+          were missing. The next day, he came face-to-face with a strange humanoid. He tried to shoot 
+          at it, and the humanoid fled, never to return.</p>
 
           <p><b>I COULD ONLY MOVE MY EYES</b>. One <b>summer day in 1992</b>, an 11-year-old boy watched 
-		  a movie about gray aliens. That night he woke up to see three gray aliens by his bed. He was 
-		  completely paralyzed and could only watch. He was amazed to see that they looked different 
-		  from the grays portrayed in the movie. Waking up the next morning, he saw a faint scar on 
-		  his leg. The next night, he saw a UFO.</p>
+          a movie about gray aliens. That night he woke up to see three gray aliens by his bed. He was 
+          completely paralyzed and could only watch. He was amazed to see that they looked different 
+          from the grays portrayed in the movie. Waking up the next morning, he saw a faint scar on 
+          his leg. The next night, he saw a UFO.</p>
 
           <p>These ten cases all involve firsthand eyewitness testimonies of strange humanoids, which 
-		  are supported by various forms of evidence such as landing traces, physiological effects, 
-		  animal reactions, electromagnetic disturbances and even photographs. So many cases—too many 
-		  to explain away. It is time to take these accounts seriously.</p>
-		  
+          are supported by various forms of evidence such as landing traces, physiological effects, 
+          animal reactions, electromagnetic disturbances and even photographs. So many cases—too many 
+          to explain away. It is time to take these accounts seriously.</p>
+          
           <p><a href="https://prestondennett.weebly.com/" target="blank" rel="noopener noreferrer" 
           title="Preston Dennett Website">PRESTON DENNETT WEBSITE:</a></p>
 
-		  <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #314 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #314 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
         <h2 class="chapter-title">
           <a href="https://youtu.be/N3W83uyKBhE" 
           title="314. It Doesn't Get Any Weirder Than This! Ten Extremely Bizarre Close Encounters 
