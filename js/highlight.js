@@ -1,4 +1,5 @@
 /*!
+  FROM: https://unpkg.com/@highlightjs/cdn-assets@11.11.1/highlight.min.js
   Highlight.js v11.11.1 (git: 08cb242e7d)
   (c) 2006-2024 Josh Goebel <hello@joshgoebel.com> and other contributors
   License: BSD-3-Clause
