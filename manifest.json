@@ -1,5 +1,18 @@
 {
- "name": "App",
+  "name": "UFO Preston Dennett",
+  "short_name": "UFO Preston", 
+  "start_url": "/ufo-preston-dennett.bauska.org",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+{
+ "name": "UFO Preston",
  "icons": [
   {
    "src": "\/images/android-icon-36x36.png",
