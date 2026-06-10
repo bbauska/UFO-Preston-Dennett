@@ -1,4 +1,4 @@
 User-Agent: *
 Disallow: 
 
-Sitemap: https://github.com/bbauska/ufo-preston-dennett
+Sitemap: https://github.com/bbauska/UFO-Preston-Dennett
