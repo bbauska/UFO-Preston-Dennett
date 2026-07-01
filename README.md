@@ -1,6 +1,85 @@
 <h1>UFO Preston Dennett</h1>
 <h2>UFO incidences written about by Preston Dennett from 2017 to 2026. UFO info is dated 
 from 1930's worldwide.</h2>
+        <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #327 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+        <h2 class="chapter-title">
+          <a href="https://youtu.be/qC8GqIVVI40" 
+          title="327. The Greatest Evening in My Life: The Onboard UFO Encounter of Sid Padrick."
+          aria-label="327. The Greatest Evening in My Life: The Onboard UFO Encounter of Sid Padrick"
+          target="_blank" rel="noopener noreferrer">EPISODE #327.<br>
+          THE GREATEST<br>
+          EVENING IN MY LIFE:<br>
+          THE ONBOARD<br>
+          UFO ENCOUNTER OF<br>
+          SID PADRICK</a></h2>
+        <article>
+          <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
+          <h3>June 26, 2026 (0:59:22)</h3>
+
+          <p class="tallFirstLetter">For more than a year, Sid Padrick (a TV and radio repairman) 
+		  had repeatedly felt compelled to take early morning walks on Manresa Beach near his home 
+		  in Watsonville, California. On the morning of January 30, 1965, he learned the reason why. 
+		  It was 2am; he had finished his walk and was in the parking lot at Manresa Beach when he 
+		  heard a buzzing sound. Looking up, he saw a strange disc-shaped craft descend and move 
+		  closer. As it moved closer, he saw it was a massive flying saucer, 50 feet wide and 30 feet 
+		  high. Terrified, he turned and ran.</p>
+
+          <p>A male voice came from the craft, and said, “Do not be frightened, we are not hostile.” 
+		  Sid was still frightened and kept running, and the voice repeated the phrase and told him, 
+		  “You may come aboard, we assure you of no harm.” Sid became curious and stopped to watch the 
+		  craft descend and hover a few feet above the ground. As he moved closer a door opened, and 
+		  somehow, Sid found the courage to step inside.</p>
+          <p>He entered a small room which suddenly brightened with a blinding light. As it dimmed, he 
+		  realized that it was some kind of decontamination chamber. Another door opened and voice invited 
+		  him to step through. With no idea what kind of creature he would meet, and still trembling with 
+		  fear, Sid stepped through the door. He was greeted by a young-looking, dark-haired man wearing a 
+		  skin-tight blue-white suit who introduced himself as Xeno. The man invited Sid to ask him 
+		  questions.</p>
+
+          <p>What followed was a lengthy question and answer session, with Sid asking the ET a long list 
+		  of questions. Who are you? Where do you come from? Why are you here? Why did you contact me? Are 
+		  there others like you? What do you eat? How do you power your craft? Have you met with world 
+		  governments? And many other questions. The human-looking ET answered all of Sid’s questions, 
+		  though some of the responses puzzled him or went over his head.</p>
+
+          <p>After the Q&A, Sid was invited to view the craft and meet the other crewpersons, which included 
+		  six other men and one woman. All wore the same clothing and looked human, with minor differences. 
+		  The ETs had fair unblemished skin, dark hair, pointed noses and chins, and slightly longer but well-
+		  manicured fingers. Sid was shown seven rooms on the lower floor and was then transported via a type 
+		  of elevator to the second floor where he saw seven other rooms. Most were filled with advanced-looking 
+		  computer-like equipment and soft chairs. One had a type of bed. Another had cabinets filled with 
+		  supplies. Sid was shown a sort of viewing port which displayed a larger mother ship high in the 
+		  atmosphere. He was also shown an image of the ETs home planet, which had dome-shaped buildings in a 
+		  rural setting.</p>
+
+          <p>At one point, the ET told him that they had moved the ship and landed in another area, not only so 
+		  that they would be unobserved but also so that Sid could go outside and inspect the ship. Not only 
+		  that, but so that Sid could look at the area, go there later and verify that his onboard encounter 
+		  could not be explained as a dream. (After his encounter, Sid did later find this area.)</p>
+
+          <p>Towards the end of his encounter, Sid was taken to a room that the ETs called “the consultation room.” 
+		  Said Sid, “The color effect in that room was so pretty that I almost fainted when I went in, a mixture of 
+		  many beautiful colors. I can’t describe it.” It had many chairs and what appeared to an altar. The ET 
+		  explained that the believed in “a Supreme Deity,” and offered Sid a moment to pray. At this point, Sid 
+		  became so overwhelmed he broke down and cried.</p>
+
+          <p>The ET explained that in their society they live very long lives and have overcome disease, crime, poverty, 
+		  vice, overpopulation and the other problems which plague humanity. Soon it became time for Sid to depart. The 
+		  ETs promised to return and dropped him off at the location where he had been invited onboard.</p>
+
+          <p>Following the encounter, Sid told only his family and one friend. But he was urged to report it to the Air 
+		  Force, which he did. The Air Force showed great interest in his case and conducted a full investigation but 
+		  asked him not to reveal most of the details of his encounter. Sid, however, felt it was important that people 
+		  know the truth and soon gave many interviews and lectures about his encounter. The response was overwhelmingly 
+		  positive. But after a year or two, Sid stopped speaking publicly. Reportedly, he did have further encounters, 
+		  but if so, he never talked about them publicly.</p>
+ 
+          <p>Sid says that he was forever changed by his encounter. His health improved dramatically. He began having 
+		  out-of-body experiences. He lost all fear of death. His mind filled with new technological ideas. He was 
+		  awakened spiritually and more. He called the encounter, “the best evening of my life,” and says that the 
+		  ETs were entirely benevolent and that we have nothing to fear from them.</p>
+          <p>#ufo #uap</p>
+
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ episode #326 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2 class="chapter-title">
 <a href="https://youtu.be/wHw6GLMPpRw" 
