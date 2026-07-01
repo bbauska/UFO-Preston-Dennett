@@ -16,13 +16,13 @@ from 1930's worldwide.</h2>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>June 26, 2026 (0:59:22)</h3>
 
-          <p class="tallFirstLetter">For more than a year, Sid Padrick (a TV and radio repairman) 
-		  had repeatedly felt compelled to take early morning walks on Manresa Beach near his home 
-		  in Watsonville, California. On the morning of January 30, 1965, he learned the reason why. 
-		  It was 2am; he had finished his walk and was in the parking lot at Manresa Beach when he 
-		  heard a buzzing sound. Looking up, he saw a strange disc-shaped craft descend and move 
-		  closer. As it moved closer, he saw it was a massive flying saucer, 50 feet wide and 30 feet 
-		  high. Terrified, he turned and ran.</p>
+<p class="tallFirstLetter">For more than a year, Sid Padrick (a TV and radio repairman) 
+had repeatedly felt compelled to take early morning walks on Manresa Beach near his home 
+in Watsonville, California. On the morning of January 30, 1965, he learned the reason why. 
+It was 2am; he had finished his walk and was in the parking lot at Manresa Beach when he 
+heard a buzzing sound. Looking up, he saw a strange disc-shaped craft descend and move 
+closer. As it moved closer, he saw it was a massive flying saucer, 50 feet wide and 30 feet 
+high. Terrified, he turned and ran.</p>
 
           <p>A male voice came from the craft, and said, “Do not be frightened, we are not hostile.” 
 		  Sid was still frightened and kept running, and the voice repeated the phrase and told him, 
