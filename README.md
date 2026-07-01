@@ -15,15 +15,15 @@ from 1930's worldwide.</h2>
           <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
           <h3>June 19, 2026 (0:58:30)</h3>
 
-          <p class="tallFirstLetter">Humanoid encounters go to the very heart of the UFO phenomenon. 
-		  The numbers of cases like these are staggering. The accounts are incredibly consistent 
-		  which argues strongly for their veracity, not to mention that there are so many accounts 
-		  supported by multiple witnesses and various forms of evidence. Most interesting, perhaps, 
-		  are the elements of high strangeness, some of which are rarely reported or even totally 
-		  unique. This video presents eight particularly unusual and weird cases of people who have 
-		  encountered humanoids face-to-face.</p>
+<p class="tallFirstLetter">Humanoid encounters go to the very heart of the UFO phenomenon. 
+The numbers of cases like these are staggering. The accounts are incredibly consistent 
+which argues strongly for their veracity, not to mention that there are so many accounts 
+supported by multiple witnesses and various forms of evidence. Most interesting, perhaps, 
+are the elements of high strangeness, some of which are rarely reported or even totally 
+unique. This video presents eight particularly unusual and weird cases of people who have 
+encountered humanoids face-to-face.</p>
 
-          <p><b>THE ALIENS AND THE WHITE WOLF.</b> One day around <b>January 1939</b>, two lumberjacks 
+<p><b>THE ALIENS AND THE WHITE WOLF.</b> One day around <b>January 1939</b>, two lumberjacks 
 		  were in the frozen forests near Lake Abitibi in Quebec, Canada when a white wolf approached 
 		  them. Suddenly several short bald humanoids appeared. One walked up to the wolf and began to 
 		  speak in a foreign language. The wolf attacked and killed the little being. The others collected 
