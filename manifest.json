@@ -1,7 +1,7 @@
 {
   "name": "UFO Preston Dennett",
   "short_name": "UFO Preston", 
-  "start_url": "/ufo-preston-dennett.bauska.org",
+  "start_url": "ufo-preston-dennett.bauska.org",
   "display": "standalone",
   "icons": [
     {
