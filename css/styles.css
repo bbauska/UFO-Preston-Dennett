@@ -26,25 +26,15 @@ body {
   padding: 1em;
   width: 100%;
 }
-<!--
-.emphasize {
-  display: block;
-  font-size: .83em;
-  margin-before: 1.67em;
-  margin-after: 1.67em;
-  margin-start: 0;
-  margin-end: 0;
-  font-weight: bold;
-}
--->
+
 /* was h5 */
 h3 {
   display: block;
   font-size: .83em;
-  margin-before: 1.67em;
-  margin-after: 1.67em;
-  margin-start: 0;
-  margin-end: 0;
+  margin-block-start: 1.67em;
+  margin-block-end: 1.67em;
+  margin-inline-start: 0;
+  margin-inline-end: 0;
   font-weight: bold; 
 }
 
